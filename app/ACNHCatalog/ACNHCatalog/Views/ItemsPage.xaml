@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:converter="clr-namespace:ACNHCatalog.ViewModels"
+             mc:Ignorable="d"
+             x:Class="ACNHCatalog.Views.ItemsPage"
+             Title="{Binding Title}"
+             x:Name="BrowseItemsPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converter:InvertedBooleanConverter x:Key="InvertedBooleanConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="筛选" Clicked="AddItem_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <RefreshView IsRefreshing="False">
+        <CollectionView x:Name="ItemsCollectionView"
+                ItemsSource="{Binding Items}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <StackLayout Padding="10" Orientation="Horizontal">
+                            <Image Source="{Binding Icon}" HeightRequest="32"></Image>
+                            <Label Text="{Binding Name}"
+                                   LineBreakMode="NoWrap"
+                                   FontSize="15"
+                                   VerticalTextAlignment="Center"/>
+                            <Frame CornerRadius="15"
+                                   Margin="10,0,0,0"
+                                   BackgroundColor="#5dad44"
+                                   WidthRequest="40"
+                                   Padding="0"
+                                   HeightRequest="20"
+                                   VerticalOptions="Center"
+                                   IsVisible="{Binding NotOwned, Converter={StaticResource InvertedBooleanConverter}}">
+                                <Label Text="{Binding OwnedStatus}"
+                                       VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"
+                                       FontSize="10"
+                                       TextColor="White"/>
+                            </Frame>
+
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer NumberOfTapsRequired="1" Tapped="OnItemSelected"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                        <Button Grid.Column="1"
+                                Text="拥有"
+                                BackgroundColor="#5dad44" 
+                                VerticalOptions="Center"
+                                TextColor="White"
+                                WidthRequest="60"
+                                HeightRequest="35"
+                                Margin="0,0,10,0"
+                                Padding="0"
+                                Command="{Binding OwnedCommand}"
+                                CornerRadius="15"
+                                IsVisible="{Binding NotOwned}"/>
+                        <Button Grid.Column="1"
+                                Text="重置"
+                                BackgroundColor="#A8A8A8" 
+                                VerticalOptions="Center"
+                                Padding="0"
+                                TextColor="White"
+                                WidthRequest="60"
+                                HeightRequest="35"
+                                Margin="0,0,10,0"
+                                Command="{Binding OwnedCommand}"
+                                CornerRadius="15"
+                                IsVisible="{Binding NotOwned, Converter={StaticResource InvertedBooleanConverter}}"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>

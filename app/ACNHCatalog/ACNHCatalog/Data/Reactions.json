@@ -1,0 +1,279 @@
+[
+  {
+    "Key": "Reactions",
+    "Value": [
+      {
+        "Name": "Aggravation",
+        "Source": "Peppy",
+        "InternalID": "Outraged",
+        "Image": ""
+      },
+      {
+        "Name": "Agreement",
+        "Source": "Cranky",
+        "InternalID": "Nodding",
+        "Image": ""
+      },
+      {
+        "Name": "Amazed",
+        "Source": "Snooty",
+        "InternalID": "Shocked",
+        "Image": ""
+      },
+      {
+        "Name": "Apologetic",
+        "Source": "Big Sister",
+        "InternalID": "Apologize",
+        "Image": ""
+      },
+      {
+        "Name": "Bashfulness",
+        "Source": "Lazy",
+        "InternalID": "Blushing",
+        "Image": ""
+      },
+      {
+        "Name": "Bewilderment",
+        "Source": "Cranky",
+        "InternalID": "Pardon",
+        "Image": ""
+      },
+      {
+        "Name": "Cold Chill",
+        "Source": "Big Sister",
+        "InternalID": "ColdChill",
+        "Image": ""
+      },
+      {
+        "Name": "Confident",
+        "Source": "Big Sister",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "Assent",
+        "Image": ""
+      },
+      {
+        "Name": "Curiosity",
+        "Source": "Peppy",
+        "InternalID": "QuestionMark",
+        "Image": ""
+      },
+      {
+        "Name": "Daydreaming",
+        "Source": "Normal",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "AbsentMindedness",
+        "Image": ""
+      },
+      {
+        "Name": "Delight",
+        "Source": "All",
+        "InternalID": "Clapping",
+        "Image": ""
+      },
+      {
+        "Name": "Disagreement",
+        "Source": "Big Sister",
+        "InternalID": "Negative",
+        "Image": ""
+      },
+      {
+        "Name": "Distress",
+        "Source": "Jock",
+        "InternalID": "Frantic",
+        "Image": ""
+      },
+      {
+        "Name": "Dozing",
+        "Source": "Smug",
+        "InternalID": "Sleep",
+        "Image": ""
+      },
+      {
+        "Name": "Encouraging",
+        "Source": "Jock",
+        "InternalID": "Cheering",
+        "Image": ""
+      },
+      {
+        "Name": "Fearful",
+        "Source": "Normal",
+        "InternalID": "Shaking",
+        "Image": ""
+      },
+      {
+        "Name": "Flourish",
+        "Source": "Jock",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "Dance",
+        "Image": ""
+      },
+      {
+        "Name": "Glee",
+        "Source": "Normal",
+        "InternalID": "HappyDance",
+        "Image": ""
+      },
+      {
+        "Name": "Greetings",
+        "Source": "All",
+        "InternalID": "Greeting",
+        "Image": ""
+      },
+      {
+        "Name": "Happiness",
+        "Source": "Peppy",
+        "InternalID": "Smiling",
+        "Image": ""
+      },
+      {
+        "Name": "Heartbreak",
+        "Source": "Smug",
+        "InternalID": "BrokenHeart",
+        "Image": ""
+      },
+      {
+        "Name": "Inspiration",
+        "Source": "Cranky",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "IdeaBulb",
+        "Image": ""
+      },
+      {
+        "Name": "Intense",
+        "Source": "Snooty",
+        "InternalID": "Silent",
+        "Image": ""
+      },
+      {
+        "Name": "Joy",
+        "Source": "All",
+        "InternalID": "HappyFlower",
+        "Image": ""
+      },
+      {
+        "Name": "Laughter",
+        "Source": "Big Sister",
+        "InternalID": "Laughing",
+        "Image": ""
+      },
+      {
+        "Name": "Love",
+        "Source": "Snooty",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "Love",
+        "Image": ""
+      },
+      {
+        "Name": "Mischief",
+        "Source": "Peppy",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "Scheming",
+        "Image": ""
+      },
+      {
+        "Name": "Mistaken",
+        "Source": "Lazy",
+        "InternalID": "Oops",
+        "Image": ""
+      },
+      {
+        "Name": "Pleased",
+        "Source": "Normal",
+        "InternalID": "Hello",
+        "Image": ""
+      },
+      {
+        "Name": "Pride",
+        "Source": "Lazy",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "SmugFace",
+        "Image": ""
+      },
+      {
+        "Name": "Resignation",
+        "Source": "Smug",
+        "InternalID": "OhGeez",
+        "Image": ""
+      },
+      {
+        "Name": "Sadness",
+        "Source": "Normal",
+        "InternalID": "SadSpiral",
+        "Image": ""
+      },
+      {
+        "Name": "Sheepishness",
+        "Source": "Cranky",
+        "InternalID": "WrySmile",
+        "Image": ""
+      },
+      {
+        "Name": "Shocked",
+        "Source": "Jock",
+        "InternalID": "Surprised",
+        "Image": ""
+      },
+      {
+        "Name": "Showmanship",
+        "Source": "Smug",
+        "SourceNotes": "Requires a high level of friendship",
+        "InternalID": "Shaki",
+        "Image": ""
+      },
+      {
+        "Name": "Shyness",
+        "Source": "Lazy",
+        "InternalID": "Hesitate",
+        "Image": ""
+      },
+      {
+        "Name": "Sighing",
+        "Source": "Snooty",
+        "InternalID": "Sighing",
+        "Image": ""
+      },
+      {
+        "Name": "Sleepy",
+        "Source": "Peppy",
+        "InternalID": "Sleepy",
+        "Image": ""
+      },
+      {
+        "Name": "Smirking",
+        "Source": "Smug",
+        "InternalID": "Grin",
+        "Image": ""
+      },
+      {
+        "Name": "Sneezing",
+        "Source": "Jock",
+        "InternalID": "Sneezing",
+        "Image": ""
+      },
+      {
+        "Name": "Sorrow",
+        "Source": "Lazy",
+        "InternalID": "Crying",
+        "Image": ""
+      },
+      {
+        "Name": "Surprise",
+        "Source": "All",
+        "InternalID": "Aha",
+        "Image": ""
+      },
+      {
+        "Name": "Thought",
+        "Source": "Snooty",
+        "InternalID": "Thinking",
+        "Image": ""
+      },
+      {
+        "Name": "Worry",
+        "Source": "Cranky",
+        "InternalID": "Worried",
+        "Image": ""
+      }
+    ]
+  }
+]

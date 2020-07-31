@@ -1,0 +1,2321 @@
+[
+  {
+    "Key": "Tools",
+    "Value": [
+      {
+        "Name": "斧头",
+        "EnglishName": "axe",
+        "DIY": "Yes",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "Filename": "ToolAxe",
+        "InternalID": "2100",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "竹棒",
+        "EnglishName": "bamboo wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "3900",
+        "HHABasePoints": "201",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickBamboo",
+        "InternalID": "7590",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "虫子棒",
+        "EnglishName": "bug wand",
+        "DIY": "No",
+        "Buy": "NFS",
+        "Sell": "1500",
+        "HHABasePoints": "501",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Bug-Off",
+        "Filename": "ToolStcikInsect",
+        "InternalID": "8769",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "Bunny Day wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "11100",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickEgg",
+        "InternalID": "12578",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "樱花棒",
+        "EnglishName": "cherry-blossom wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "2700",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickCherryblossom",
+        "InternalID": "7589",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "彩色钓竿",
+        "EnglishName": "colorful fishing rod",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Gray"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolFishingrodDuck_Remake_0_0",
+        "InternalID": "8472",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Yellow"
+      },
+      {
+        "Name": "彩色捕虫网",
+        "EnglishName": "colorful net",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow & orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red & yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange & blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink & yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green & blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple & pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White & blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Gray & green"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolNetPattern_Remake_0_0",
+        "InternalID": "8177",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Yellow & orange"
+      },
+      {
+        "Name": "彩色铲子",
+        "EnglishName": "colorful shovel",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolScoopColorful_Remake_0_0",
+        "InternalID": "8577",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Yellow"
+      },
+      {
+        "Name": "彩色弹弓",
+        "EnglishName": "colorful slingshot",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolSlingshotColorful_Remake_0_0",
+        "InternalID": "8580",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Yellow"
+      },
+      {
+        "Name": "彩色浇花壶",
+        "EnglishName": "colorful watering can",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolWateringColorful_Remake_0_0",
+        "InternalID": "8534",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Yellow"
+      },
+      {
+        "Name": "波斯菊棒",
+        "EnglishName": "cosmos wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickCosmos",
+        "InternalID": "5092",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "大象浇花壶",
+        "EnglishName": "elephant watering can",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Gray"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolWateringElephant_Remake_0_0",
+        "InternalID": "8535",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "鱼儿钓竿",
+        "EnglishName": "fish fishing rod",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolFishingrodColorful_Remake_0_0",
+        "InternalID": "8471",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Green"
+      },
+      {
+        "Name": "鱼儿棒",
+        "EnglishName": "fish wand",
+        "DIY": "No",
+        "Buy": "NFS",
+        "Sell": "1500",
+        "HHABasePoints": "501",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Fishing Tourney",
+        "Filename": "ToolStickFish",
+        "InternalID": "8770",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "钓竿",
+        "EnglishName": "fishing rod",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "600",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolAngling_Remake_0_0",
+        "InternalID": "2377",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Blue"
+      },
+      {
+        "Name": "简陋斧头",
+        "EnglishName": "flimsy axe",
+        "DIY": "Yes",
+        "Buy": "800",
+        "Sell": "200",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available after unlocking the axe in the story",
+        "Filename": "ToolAxeStone",
+        "InternalID": "3068",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "简陋钓竿",
+        "EnglishName": "flimsy fishing rod",
+        "DIY": "Yes",
+        "Buy": "400",
+        "Sell": "100",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+        "Filename": "ToolFishingrodWood",
+        "InternalID": "3084",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "简陋捕虫网",
+        "EnglishName": "flimsy net",
+        "DIY": "Yes",
+        "Buy": "400",
+        "Sell": "100",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+        "Filename": "ToolNet",
+        "InternalID": "2376",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "简陋铲子",
+        "EnglishName": "flimsy shovel",
+        "DIY": "Yes",
+        "Buy": "800",
+        "Sell": "200",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available after unlocking the shovel in the story",
+        "Filename": "ToolShovelWood",
+        "InternalID": "3082",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "简陋浇花壶",
+        "EnglishName": "flimsy watering can",
+        "DIY": "Yes",
+        "Buy": "800",
+        "Sell": "200",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+        "Filename": "ToolWateringWood",
+        "InternalID": "3083",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "金色斧头",
+        "EnglishName": "golden axe",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "10655",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolAxeGold",
+        "InternalID": "9617",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "金色捕虫网",
+        "EnglishName": "golden net",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "10400",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolNetGold",
+        "InternalID": "8179",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "金色钓竿",
+        "EnglishName": "golden rod",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "10400",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolFishingrodGold",
+        "InternalID": "8660",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "金色铲子",
+        "EnglishName": "golden shovel",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "10675",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolScoopGold",
+        "InternalID": "8574",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "金色弹弓",
+        "EnglishName": "golden slingshot",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "10300",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolSlingshotGold",
+        "InternalID": "8578",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "黄金棒",
+        "EnglishName": "golden wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "20750",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickGolden",
+        "InternalID": "7591",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "金色浇花壶",
+        "EnglishName": "golden watering can",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "10675",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolWateringGold",
+        "InternalID": "8533",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "风信子棒",
+        "EnglishName": "hyacinth wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1660",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickHyacinth",
+        "InternalID": "5083",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "冰之棒",
+        "EnglishName": "ice wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "6500",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickSnow",
+        "InternalID": "7585",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "铁棒",
+        "EnglishName": "iron wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "3750",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickIron",
+        "InternalID": "7592",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "梯子",
+        "EnglishName": "ladder",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1440",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolLadder",
+        "InternalID": "2615",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "荧光棒",
+        "EnglishName": "light stick",
+        "DIY": "No",
+        "Buy": "1500",
+        "Sell": "375",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Isabelle",
+        "SourceNotes": "Obtained by speaking to Isabelle on New Year's Eve",
+        "Filename": "ToolSticklight",
+        "InternalID": "5741",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "百合棒",
+        "EnglishName": "lily wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickYuri",
+        "InternalID": "5094",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "菊花棒",
+        "EnglishName": "mums wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickChrysanthemum",
+        "InternalID": "5095",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "蘑菇棒",
+        "EnglishName": "mushroom wand",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Mushroom type",
+            "Variation": "Ordinary mushroom"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Mushroom type",
+            "Variation": "White mushroom"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Mushroom type",
+            "Variation": "Strange mushroom"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Mushroom type",
+            "Variation": "Red mushroom"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Mushroom type",
+            "Variation": "Yellow mushroom"
+          }
+        ],
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "3300",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickMushroom_Remake_0_0",
+        "InternalID": "7588",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Mushroom type",
+        "Variation": "Ordinary mushroom"
+      },
+      {
+        "Name": "捕虫网",
+        "EnglishName": "net",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "Yes",
+        "Buy": "900",
+        "Sell": "225",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+        "Filename": "ToolNetNormal_Remake_0_0",
+        "InternalID": "5784",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Red"
+      },
+      {
+        "Name": "Nook Inc. uchiwa fan",
+        "DIY": "No",
+        "Buy": "NFS",
+        "Sell": "2000",
+        "HHABasePoints": "151",
+        "Size": "1x1",
+        "MilesPrice": "400",
+        "Source": "Nook Miles Shop",
+        "Filename": "ToolFanNook0",
+        "InternalID": "9762",
+        "Image": "",
+        "Color1": "Green",
+        "Color2": "White",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "陶笛",
+        "EnglishName": "ocarina",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1000",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolOcarina",
+        "InternalID": "5320",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "户外钓竿",
+        "EnglishName": "outdoorsy fishing rod",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Avocado"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Beige"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolFishingrodOutdoor_Remake_0_0",
+        "InternalID": "8473",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Avocado"
+      },
+      {
+        "Name": "户外捕虫网",
+        "EnglishName": "outdoorsy net",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Avocado"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Beige"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolNetOutdoor_Remake_0_0",
+        "InternalID": "8178",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Avocado"
+      },
+      {
+        "Name": "户外铲子",
+        "EnglishName": "outdoorsy shovel",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Avocado"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Beige"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolScoopOutdoor_Remake_0_0",
+        "InternalID": "8575",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Avocado"
+      },
+      {
+        "Name": "户外弹弓",
+        "EnglishName": "outdoorsy slingshot",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Avocado"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Beige"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolSlingshotOutdoor_Remake_0_0",
+        "InternalID": "8579",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Avocado"
+      },
+      {
+        "Name": "户外浇花壶",
+        "EnglishName": "outdoorsy watering can",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Avocado"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Beige"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolWateringOutdoor_Remake_0_0",
+        "InternalID": "8536",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Avocado"
+      },
+      {
+        "Name": "排笛",
+        "EnglishName": "pan flute",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "2800",
+        "HHABasePoints": "201",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolPanpipe",
+        "InternalID": "5517",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "三色堇棒",
+        "EnglishName": "pansy wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickPansy",
+        "InternalID": "5091",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "拉炮",
+        "EnglishName": "party popper",
+        "DIY": "No",
+        "Buy": "100",
+        "Sell": "25",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Only available close to new year holiday",
+        "Filename": "ToolCracker",
+        "InternalID": "2753",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "花纹铲子",
+        "EnglishName": "printed-design shovel",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolScoopPattern_Remake_0_0",
+        "InternalID": "8576",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Light blue"
+      },
+      {
+        "Name": "玫瑰棒",
+        "EnglishName": "rose wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickRose",
+        "InternalID": "5093",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "贝壳棒",
+        "EnglishName": "shell wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "5100",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickShell",
+        "InternalID": "7586",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "铲子",
+        "EnglishName": "shovel",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "Yes",
+        "Buy": "2400",
+        "Sell": "600",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolScoop_Remake_0_0",
+        "InternalID": "2099",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Red"
+      },
+      {
+        "Name": "弹弓",
+        "EnglishName": "slingshot",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Gray"
+          }
+        ],
+        "DIY": "Yes",
+        "Buy": "900",
+        "Sell": "225",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny; Crafting",
+        "SourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+        "Filename": "ToolSlingshot_Remake_0_0",
+        "InternalID": "2822",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Red"
+      },
+      {
+        "Name": "星星捕虫网",
+        "EnglishName": "star net",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Yellow"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Light blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "2500",
+        "Sell": "625",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in Nook's Cranny (upgraded only)",
+        "Filename": "ToolNetStar_Remake_0_0",
+        "InternalID": "8176",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Yellow"
+      },
+      {
+        "Name": "星星棒",
+        "EnglishName": "star wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "6500",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolChangeStick",
+        "InternalID": "2544",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "石斧头",
+        "EnglishName": "stone axe",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "560",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolAxeStoneNormal",
+        "InternalID": "5856",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "铃鼓",
+        "EnglishName": "tambourine",
+        "DIY": "No",
+        "Buy": "1500",
+        "Sell": "375",
+        "HHABasePoints": "103",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "SourceNotes": "Available in the re-buyable slot in Nook's Cranny",
+        "Filename": "ToolTambourine",
+        "InternalID": "5430",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "计时器",
+        "EnglishName": "timer",
+        "DIY": "No",
+        "Buy": "840",
+        "Sell": "210",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Nook's Cranny",
+        "Filename": "ToolTimer",
+        "InternalID": "3331",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "树枝棒",
+        "EnglishName": "tree-branch wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1550",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickTree",
+        "InternalID": "7587",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "郁金香棒",
+        "EnglishName": "tulip wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickTulip",
+        "InternalID": "5085",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "撑杆跳竿子",
+        "EnglishName": "vaulting pole",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "600",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "LongWoodenStick",
+        "InternalID": "4703",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "棒子",
+        "EnglishName": "wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1000",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickWood",
+        "InternalID": "7584",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "浇花壶",
+        "EnglishName": "watering can",
+        "Variations": [
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Blue"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Orange"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Green"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Red"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Purple"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Pink"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "White"
+          },
+          {
+            "Image": "",
+            "Color1": "None",
+            "Color2": "None",
+            "BodyTitle": "Color",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "Yes",
+        "Buy": "2400",
+        "Sell": "600",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolWatering_Remake_0_0",
+        "InternalID": "2379",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "Color",
+        "Variation": "Blue"
+      },
+      {
+        "Name": "婚礼棒",
+        "EnglishName": "wedding wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "3500",
+        "HHABasePoints": "437",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickJune",
+        "InternalID": "12695",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "银莲花棒",
+        "EnglishName": "windflower wand",
+        "DIY": "Yes",
+        "Buy": "NFS",
+        "Sell": "1580",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Crafting",
+        "Filename": "ToolStickAnemones",
+        "InternalID": "5084",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      },
+      {
+        "Name": "快要坏掉的斧头",
+        "EnglishName": "worn axe",
+        "DIY": "No",
+        "Buy": "40",
+        "Sell": "10",
+        "HHABasePoints": "0",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "May Day Tour",
+        "SourceNotes": "Only available during May Day Tour",
+        "Filename": "ToolAxeFragile",
+        "InternalID": "12615",
+        "Image": "",
+        "Color1": "None",
+        "Color2": "None",
+        "BodyTitle": "NA",
+        "Variation": "NA"
+      }
+    ]
+  }
+]

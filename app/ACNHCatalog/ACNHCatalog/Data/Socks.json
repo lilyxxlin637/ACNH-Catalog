@@ -1,0 +1,4351 @@
+[
+  {
+    "Key": "Socks",
+    "Value": [
+      {
+        "Name": "有氧运动紧身裤",
+        "EnglishName": "aerobics leggings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Red",
+            "Variation": "Red & pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Light blue",
+            "Variation": "Light blue & salmon pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Purple",
+            "Variation": "Purple & orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Light blue",
+            "Variation": "Emerald & lime"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Yellow",
+            "Variation": "Yellow & blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "700",
+        "Sell": "175",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAerobics0",
+        "InternalID": "5197",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "Red",
+        "Variation": "Red & pink"
+      },
+      {
+        "Name": "Aran-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAlan1",
+        "InternalID": "9058",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "Aran-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "2",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAlan5",
+        "InternalID": "9062",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Black",
+        "Variation": "Black"
+      },
+      {
+        "Name": "Aran-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "3",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAlan2",
+        "InternalID": "9059",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "Aran-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "4",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAlan3",
+        "InternalID": "9060",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Green",
+        "Color2": "Green",
+        "Variation": "Green"
+      },
+      {
+        "Name": "Aran-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "5",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAlan4",
+        "InternalID": "9061",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Blue",
+        "Color2": "Blue",
+        "Variation": "Blue"
+      },
+      {
+        "Name": "Aran-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "6",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAlan0",
+        "InternalID": "4742",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Beige",
+        "Color2": "Beige",
+        "Variation": "Beige"
+      },
+      {
+        "Name": "菱格纹袜",
+        "EnglishName": "argyle crew socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Red",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Pink",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "White",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "White",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Yellow",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Light blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Brown",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexArgyle5",
+        "InternalID": "9925",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Red",
+        "Variation": "White"
+      },
+      {
+        "Name": "蝴蝶结袜子",
+        "EnglishName": "back-bow socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Pink",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Black",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Green",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Pink",
+            "Variation": "Peacock blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Yellow",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "Spring",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexRibbon3",
+        "InternalID": "9055",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Pink",
+        "Variation": "White"
+      },
+      {
+        "Name": "三折袜",
+        "EnglishName": "bobby socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFolded0",
+        "InternalID": "5171",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "多色格子袜",
+        "EnglishName": "color-blocked socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Colorful",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Colorful",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Colorful",
+            "Variation": "Lime"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Colorful",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Colorful",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Colorful",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Colorful",
+            "Variation": "Brown"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Colorful",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "840",
+        "Sell": "210",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexMultiblock5",
+        "InternalID": "9899",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Colorful",
+        "Variation": "White"
+      },
+      {
+        "Name": "压力裤袜",
+        "EnglishName": "compression tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Green",
+            "Variation": "Mint"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexCompression4",
+        "InternalID": "9793",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "英国传统服装袜子",
+        "EnglishName": "country socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Black",
+            "Variation": "Black ribbons"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Red",
+            "Variation": "Red ribbons"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Green",
+            "Variation": "Green ribbons"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Blue",
+            "Variation": "Blue ribbons"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexCountry3",
+        "InternalID": "8944",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Black",
+        "Variation": "Black ribbons"
+      },
+      {
+        "Name": "钩针编织袜",
+        "EnglishName": "crocheted socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexCrocheting1",
+        "InternalID": "8939",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Gray",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "牛仔紧身裤",
+        "EnglishName": "denim leggings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Indigo blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Saxon blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "540",
+        "Sell": "135",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexDenimleggings1",
+        "InternalID": "9782",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Blue",
+        "Color2": "Blue",
+        "Variation": "Indigo blue"
+      },
+      {
+        "Name": "点点膝上袜",
+        "EnglishName": "dotted knee-high socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Cyan"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexDotknee3",
+        "InternalID": "12181",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Gray",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "花纹刺绣裤袜",
+        "EnglishName": "embroidered-flower tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Yellow",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Orange",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Pink",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Red",
+            "Variation": "Brown"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Red",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1000",
+        "Sell": "250",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexEmbroidery1",
+        "InternalID": "9907",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "White",
+        "Variation": "Black"
+      },
+      {
+        "Name": "通勤袜子",
+        "EnglishName": "everyday socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexDailysocks5",
+        "InternalID": "10038",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "通勤裤袜",
+        "EnglishName": "everyday tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Light gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexDailytights3",
+        "InternalID": "9684",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "网袜",
+        "EnglishName": "fishnet tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexAmitights1",
+        "InternalID": "9659",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "花朵点点裤袜",
+        "EnglishName": "flowery-dot tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "White",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFlowerdot0",
+        "InternalID": "5804",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "蕾丝花边膝上袜",
+        "EnglishName": "frilly knee-high socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "White",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "White",
+            "Variation": "Brown"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "White",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Mint"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "White",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "840",
+        "Sell": "210",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "Spring",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFrilledknee0",
+        "InternalID": "5172",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "White",
+        "Variation": "Black"
+      },
+      {
+        "Name": "蕾丝花边袜",
+        "EnglishName": "frilly socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "White",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "White",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFrilled0",
+        "InternalID": "5174",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "卡通图案袜",
+        "EnglishName": "funny-face socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Gray",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Yellow",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Light blue",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Blue",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Green",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "Summer",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexCharacter4",
+        "InternalID": "9995",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Gray",
+        "Variation": "Black"
+      },
+      {
+        "Name": "吊带袜",
+        "EnglishName": "garter socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "980",
+        "Sell": "245",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexGarter1",
+        "InternalID": "9661",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "奇马约图腾袜",
+        "EnglishName": "geometric-print socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Colorful",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Colorful",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Colorful",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Colorful",
+            "Variation": "Peacock blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Colorful",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Colorful",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "950",
+        "Sell": "237",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexChimayo4",
+        "InternalID": "9915",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "Colorful",
+        "Variation": "Pink"
+      },
+      {
+        "Name": "手工编织袜",
+        "EnglishName": "hand-knit socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "700",
+        "Sell": "175",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexHandknit2",
+        "InternalID": "9077",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Orange",
+        "Color2": "Orange",
+        "Variation": "Orange"
+      },
+      {
+        "Name": "破洞袜",
+        "EnglishName": "holey socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "White"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "NFS",
+        "Sell": "10",
+        "HHABasePoints": "53",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Recycle bin",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "Not for sale",
+        "Filename": "SocksTexHole0",
+        "InternalID": "5178",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Blue",
+        "Color2": "Blue",
+        "Variation": "Blue"
+      },
+      {
+        "Name": "破洞裤袜",
+        "EnglishName": "holey tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "350",
+        "Sell": "87",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexHoletights0",
+        "InternalID": "5176",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Black",
+        "Variation": "Black"
+      },
+      {
+        "Name": "儿童袜",
+        "EnglishName": "kiddie socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Gray",
+            "Variation": "Black & gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Light blue",
+            "Variation": "Red & light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Yellow",
+            "Variation": "Pink & yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Purple",
+            "Variation": "Yellow & purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Pink",
+            "Variation": "Lime & pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Red",
+            "Variation": "Light blue & red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Orange",
+            "Variation": "Blue & orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Green",
+            "Variation": "Purple & green"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKids7",
+        "InternalID": "9991",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Gray",
+        "Variation": "Black & gray"
+      },
+      {
+        "Name": "Labelle socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Midnight"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatesocks1",
+        "InternalID": "11761",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Black",
+        "Variation": "Midnight"
+      },
+      {
+        "Name": "Labelle socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Passion"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "2",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatesocks2",
+        "InternalID": "11762",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Passion"
+      },
+      {
+        "Name": "Labelle socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Love"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "3",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatesocks5",
+        "InternalID": "11765",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "Pink",
+        "Variation": "Love"
+      },
+      {
+        "Name": "Labelle socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Sunset"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "4",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatesocks4",
+        "InternalID": "11764",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Yellow",
+        "Color2": "Yellow",
+        "Variation": "Sunset"
+      },
+      {
+        "Name": "Labelle socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Ocean"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "5",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatesocks3",
+        "InternalID": "11763",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Blue",
+        "Color2": "Blue",
+        "Variation": "Ocean"
+      },
+      {
+        "Name": "Labelle socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Twilight"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "6",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatesocks0",
+        "InternalID": "9883",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Purple",
+        "Color2": "Purple",
+        "Variation": "Twilight"
+      },
+      {
+        "Name": "Labelle tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Midnight"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1240",
+        "Sell": "310",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatetights1",
+        "InternalID": "11756",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Black",
+        "Variation": "Midnight"
+      },
+      {
+        "Name": "Labelle tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Passion"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1240",
+        "Sell": "310",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "2",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatetights2",
+        "InternalID": "11757",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Passion"
+      },
+      {
+        "Name": "Labelle tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Love"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1240",
+        "Sell": "310",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "3",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatetights5",
+        "InternalID": "11760",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "Pink",
+        "Variation": "Love"
+      },
+      {
+        "Name": "Labelle tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Sunset"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1240",
+        "Sell": "310",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "4",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatetights4",
+        "InternalID": "11759",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Orange",
+        "Color2": "Orange",
+        "Variation": "Sunset"
+      },
+      {
+        "Name": "Labelle tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Ocean"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1240",
+        "Sell": "310",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "5",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatetights3",
+        "InternalID": "11758",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Blue",
+        "Color2": "Blue",
+        "Variation": "Ocean"
+      },
+      {
+        "Name": "Labelle tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Twilight"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1240",
+        "Sell": "310",
+        "HHABasePoints": "351",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Labelle",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "6",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexKatetights0",
+        "InternalID": "9882",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Purple",
+        "Color2": "Purple",
+        "Variation": "Twilight"
+      },
+      {
+        "Name": "蕾丝袜",
+        "EnglishName": "lace socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "White",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexLace0",
+        "InternalID": "5173",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "多层袜",
+        "EnglishName": "layered socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SockstTexOverlapping4",
+        "InternalID": "9905",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "袜套",
+        "EnglishName": "leg warmers",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Light purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "440",
+        "Sell": "110",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexLegwarmer2",
+        "InternalID": "9786",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Gray",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "混色粗花呢袜",
+        "EnglishName": "mixed-tweed socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Lime"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Avocado"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "Pink"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "800",
+        "Sell": "200",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexMixtweed0",
+        "InternalID": "5168",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "荧光色紧身裤",
+        "EnglishName": "neon leggings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Purple",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Pink",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Orange",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Light blue",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Blue",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "540",
+        "Sell": "135",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexNeonleggings1",
+        "InternalID": "9808",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "Purple",
+        "Variation": "Pink"
+      },
+      {
+        "Name": "荧光色裤袜",
+        "EnglishName": "neon tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Purple",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Pink",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Orange",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Light blue",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Blue",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexNeontights1",
+        "InternalID": "9694",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "Purple",
+        "Variation": "Pink"
+      },
+      {
+        "Name": "船型袜",
+        "EnglishName": "no-show socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Red",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Black",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Gray",
+            "Variation": "Berry red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Purple",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Light blue",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Blue",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Yellow",
+            "Variation": "Navy blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexSneakerin1",
+        "InternalID": "10003",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Red",
+        "Variation": "White"
+      },
+      {
+        "Name": "Nook Inc. socks",
+        "DIY": "No",
+        "Buy": "NFS",
+        "Sell": "2000",
+        "HHABasePoints": "151",
+        "Size": "1x1",
+        "MilesPrice": "400",
+        "Source": "Nook Miles Shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "Not for sale",
+        "Filename": "SocksTexBorderRco",
+        "InternalID": "5629",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Yellow",
+        "Color2": "Orange",
+        "Variation": "NA"
+      },
+      {
+        "Name": "北欧风袜子",
+        "EnglishName": "nordic socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Black",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Black",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Black",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Black",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Black",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Black",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Black",
+            "Variation": "Ivory"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "840",
+        "Sell": "210",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexNordic4",
+        "InternalID": "9892",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Black",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "花纹丝袜",
+        "EnglishName": "patterned stockings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexStripedot1",
+        "InternalID": "9674",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "毛球袜",
+        "EnglishName": "pom-pom socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "White",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "White",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexBobble0",
+        "InternalID": "5179",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Pink",
+        "Color2": "White",
+        "Variation": "Pink"
+      },
+      {
+        "Name": "泡泡袜",
+        "EnglishName": "puckered socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Mustard"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexPucker1",
+        "InternalID": "9078",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "跑步紧身裤",
+        "EnglishName": "running tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "550",
+        "Sell": "137",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexRun0",
+        "InternalID": "5214",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Pink",
+        "Variation": "Pink"
+      },
+      {
+        "Name": "同色系袜子",
+        "EnglishName": "semi-opaque socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Camel"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Avocado"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexNuancesocks1",
+        "InternalID": "10027",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "同色系裤袜",
+        "EnglishName": "semi-opaque tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Brown"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Yellow-green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexNuancetights6",
+        "InternalID": "9680",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "亮片紧身裤",
+        "EnglishName": "sequin leggings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "940",
+        "Sell": "235",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexSequins4",
+        "InternalID": "11583",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "透肤袜",
+        "EnglishName": "sheer socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Berry red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Olive"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "Fall",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexSeethrough5",
+        "InternalID": "9932",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Gray",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "简约膝上袜",
+        "EnglishName": "simple knee-high socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexSimpleknee1",
+        "InternalID": "12182",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "单一图案袜",
+        "EnglishName": "simple-accent socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Black",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Light blue",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Black",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Yellow",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Red",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Light blue",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "Yes",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexOnepoint2",
+        "InternalID": "9083",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Black",
+        "Variation": "White"
+      },
+      {
+        "Name": "足球袜",
+        "EnglishName": "soccer socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Black",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "White",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "White",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "White",
+            "Variation": "Blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "800",
+        "Sell": "200",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFootball6",
+        "InternalID": "9978",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Black",
+        "Variation": "White"
+      },
+      {
+        "Name": "蜘蛛裤袜",
+        "EnglishName": "spider-web tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "Fall",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexSpider1",
+        "InternalID": "9671",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "丝袜",
+        "EnglishName": "stockings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "Beige",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexTights2",
+        "InternalID": "9656",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "弹性紧身裤",
+        "EnglishName": "stretch leggings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Gray",
+            "Variation": "Dark gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "450",
+        "Sell": "112",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexLeggings3",
+        "InternalID": "9778",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "粗横纹袜",
+        "EnglishName": "striped socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "White",
+            "Variation": "Monotone"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "White",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "White",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "White",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "White",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "White",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexBorder0",
+        "InternalID": "5199",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "White",
+        "Variation": "Monotone"
+      },
+      {
+        "Name": "条纹袜子",
+        "EnglishName": "striped tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Black",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Black",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Black",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Black",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Black",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Black",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Black",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Black",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexStripe1",
+        "InternalID": "9937",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "Black",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "足袋",
+        "EnglishName": "tabi",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Navy blue"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "1200",
+        "Sell": "300",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexTabi0",
+        "InternalID": "4749",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "毛绒袜",
+        "EnglishName": "terry-cloth socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "White",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "White",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "White",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "White",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "White",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "White",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Beige",
+            "Color2": "White",
+            "Variation": "Beige"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "Winter",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFluffy6",
+        "InternalID": "9984",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Gray",
+        "Color2": "White",
+        "Variation": "Gray"
+      },
+      {
+        "Name": "条纹袜",
+        "EnglishName": "tube socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Red",
+            "Variation": "Berry red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Green",
+            "Variation": "Dark green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Blue",
+            "Variation": "Navy blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Gray",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexLine3",
+        "InternalID": "9968",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "隐形袜",
+        "EnglishName": "ultra no-show socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "White",
+            "Color2": "White",
+            "Variation": "White"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Black",
+            "Variation": "Black"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Olive"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Brown",
+            "Variation": "Brown"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexFootcover7",
+        "InternalID": "10016",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "White",
+        "Color2": "White",
+        "Variation": "White"
+      },
+      {
+        "Name": "鲜艳紧身裤",
+        "EnglishName": "vivid leggings",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "450",
+        "Sell": "112",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexVividleggings2",
+        "InternalID": "9802",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "鲜艳袜子",
+        "EnglishName": "vivid socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "480",
+        "Sell": "120",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexVividsocks0",
+        "InternalID": "9643",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "鲜艳裤袜",
+        "EnglishName": "vivid tights",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Red",
+            "Color2": "Red",
+            "Variation": "Red"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Pink",
+            "Color2": "Pink",
+            "Variation": "Pink"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Orange",
+            "Color2": "Orange",
+            "Variation": "Orange"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Yellow",
+            "Color2": "Yellow",
+            "Variation": "Yellow"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Light blue",
+            "Color2": "Light blue",
+            "Variation": "Light blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Purple",
+            "Variation": "Purple"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "720",
+        "Sell": "180",
+        "HHABasePoints": "51",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Able Sisters",
+        "SourceNotes": "Available from Able Sisters shop only",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexVividtights2",
+        "InternalID": "9688",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Red",
+        "Color2": "Red",
+        "Variation": "Red"
+      },
+      {
+        "Name": "青海波袜子",
+        "EnglishName": "wave-print socks",
+        "Variations": [
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Black",
+            "Color2": "Gray",
+            "Variation": "Gray"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Green",
+            "Color2": "Green",
+            "Variation": "Green"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Blue",
+            "Color2": "Light blue",
+            "Variation": "Blue"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Purple",
+            "Color2": "Pink",
+            "Variation": "Purple"
+          },
+          {
+            "ClosetImage": "",
+            "StorageImage": "",
+            "Color1": "Brown",
+            "Color2": "Beige",
+            "Variation": "Brown"
+          }
+        ],
+        "DIY": "No",
+        "Buy": "600",
+        "Sell": "150",
+        "HHABasePoints": "23",
+        "Size": "1x1",
+        "MilesPrice": "NA",
+        "Source": "Kicks",
+        "SeasonalAvailability": "All Year",
+        "MannequinPiece": "No",
+        "SortOrder": "1",
+        "VillagerEquippable": "No",
+        "Catalog": "For sale",
+        "Filename": "SocksTexWave4",
+        "InternalID": "9936",
+        "ClosetImage": "",
+        "StorageImage": "",
+        "Color1": "Black",
+        "Color2": "Gray",
+        "Variation": "Gray"
+      }
+    ]
+  }
+]
