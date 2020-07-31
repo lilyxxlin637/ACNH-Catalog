@@ -9,13 +9,14 @@
 
 # TODO
 
-- [ ] 摄像头自动识别DIY、博物馆生物（ML.NET）
+- [ ] 摄像头自动识别DIY、博物馆生物（ML.NET, or CV, example: https://github.com/EhsanKia/CatalogScanner）
 - [ ] 减小PNG尺寸
 - [ ] 加快开启速度
 - [ ] 完善翻译
 
 # Raw Data
 
+- All items: https://tinyurl.com/acnh-sheet
 - Translations: https://bit.ly/acnh-translations
 - Images: https://bit.ly/acnh-images
 - Layout Images: https://bit.ly/acnh-layout
