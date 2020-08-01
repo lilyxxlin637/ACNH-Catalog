@@ -4,8 +4,8 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
     <LangVersion>preview</LangVersion>
-    <AssemblyName>ACNHCatalogCatalog</AssemblyName>
-    <RootNamespace>ACNHCatalogCatalog</RootNamespace>
+    <AssemblyName>ACNHCatalog</AssemblyName>
+    <RootNamespace>ACNHCatalog</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

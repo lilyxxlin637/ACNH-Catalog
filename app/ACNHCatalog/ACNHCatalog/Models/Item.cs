@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
-using System.Windows.Input;
 using Xamarin.Forms;
 
 namespace ACNHCatalog.Models
@@ -16,6 +15,8 @@ namespace ACNHCatalog.Models
             _ownedDict = dict;
             _key = key;
         }
+
+        #region Properties from json
 
         public string Name { get; set; }
         public string EnglishName { get; set; }
@@ -30,7 +31,7 @@ namespace ACNHCatalog.Models
             {
                 if (SetProperty(ref _internalId, value))
                 {
-                    if(_ownedDict.TryGetValue(_key, out var list))
+                    if (_ownedDict.TryGetValue(_key, out var list))
                     {
                         NotOwned = !list.Contains(value);
                         OwnedStatus = "已拥有";
@@ -42,7 +43,23 @@ namespace ACNHCatalog.Models
         public string Color1 { get; set; }
         public string Color2 { get; set; }
 
-        public string Icon { get; set; }
+        #endregion
+
+        private string _iconFileName;
+        public string IconFilename
+        {
+            get => _iconFileName;
+            set
+            {
+                if (SetProperty(ref _iconFileName, value))
+                {
+                    if (!_iconFileName.EndsWith(".png", StringComparison.OrdinalIgnoreCase))
+                    {
+                        _iconFileName += ".png";
+                    }
+                }
+            }
+        }
 
         private string _ownedSatus;
         public string OwnedStatus { get => _ownedSatus; set => SetProperty(ref _ownedSatus, value); }

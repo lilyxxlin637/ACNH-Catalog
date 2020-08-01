@@ -1,6 +1,4 @@
-﻿using System;
-
-using ACNHCatalog.Models;
+﻿using ACNHCatalog.Models;
 
 namespace ACNHCatalog.ViewModels
 {

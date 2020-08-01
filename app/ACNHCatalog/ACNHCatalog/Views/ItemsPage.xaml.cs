@@ -1,15 +1,9 @@
-﻿using System;
+﻿using ACNHCatalog.Models;
+using ACNHCatalog.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
-
-using ACNHCatalog.Models;
-using ACNHCatalog.Views;
-using ACNHCatalog.ViewModels;
 
 namespace ACNHCatalog.Views
 {
@@ -21,8 +15,7 @@ namespace ACNHCatalog.Views
         ItemsViewModel viewModel;
 
         public ItemsPage()
-        {
-        }
+        { }
 
         public ItemsPage(dynamic json, IDictionary<string, ISet<string>> ownedDict, string title, string key)
         {

@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:converter="clr-namespace:ACNHCatalog.ViewModels"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:converter="clr-namespace:ACNHCatalog.Converters"
              mc:Ignorable="d"
              x:Class="ACNHCatalog.Views.ItemsPage"
              Title="{Binding Title}"
@@ -29,7 +30,7 @@
                             <ColumnDefinition Width="Auto"/>
                         </Grid.ColumnDefinitions>
                         <StackLayout Padding="10" Orientation="Horizontal">
-                            <Image Source="{Binding Icon}" HeightRequest="32"></Image>
+                            <Image Source="{Binding IconFilename}" HeightRequest="32"></Image>
                             <Label Text="{Binding Name}"
                                    LineBreakMode="NoWrap"
                                    FontSize="15"

@@ -1,14 +1,13 @@
-﻿using System;
+﻿using ACNHCatalog.Attributes;
+using ACNHCatalog.Models;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.IO;
+using System.Reflection;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
-
-using ACNHCatalog.Models;
-using System.IO;
-using Newtonsoft.Json;
-using System.Reflection;
 
 namespace ACNHCatalog.Views
 {

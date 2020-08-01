@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace ACNHCatalog.Services
@@ -12,10 +10,5 @@ namespace ACNHCatalog.Services
         Task<bool> DeleteItemAsync(string id);
         Task<T> GetItemAsync(string id);
         Task<IEnumerable<T>> GetItemsAsync(bool forceRefresh = false);
-    }
-
-    public interface IRaiseImage
-    {
-        Stream RaiseImage(Stream stream);
     }
 }
