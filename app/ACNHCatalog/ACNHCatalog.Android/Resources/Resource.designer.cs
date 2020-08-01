@@ -8324,334 +8324,2161 @@ namespace ACNHCatalog.Droid
 			public const int abc_vector_test = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
-			public const int avd_hide_password = 2131165274;
+			public const int AccessoryMouthLeafGreen = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
-			public const int avd_show_password = 2131165275;
+			public const int avd_hide_password = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int design_bottom_navigation_item_background = 2131165276;
+			public const int avd_show_password = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int design_fab_background = 2131165277;
+			public const int BagBackpackBasket0 = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int design_ic_visibility = 2131165278;
+			public const int BagBackpackEgg0 = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int design_ic_visibility_off = 2131165279;
+			public const int BagBackpackGrass0 = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int design_password_eye = 2131165280;
+			public const int BagBackpackWood0 = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int design_snackbar_background = 2131165281;
+			public const int BagShoulderAcorn0 = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int Fish0 = 2131165282;
+			public const int BagShoulderCherryblossoms0 = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int Fish1 = 2131165283;
+			public const int BagShoulderMaple0 = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int Fish10 = 2131165284;
+			public const int BagShoulderShell0 = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int Fish11 = 2131165285;
+			public const int BagShoulderSnow0 = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int Fish12 = 2131165286;
+			public const int BagShoulderStar0 = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int Fish13 = 2131165287;
+			public const int BottomsTexSkirtBoxGrass0 = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int Fish14 = 2131165288;
+			public const int BottomsTexSkirtBoxGrass1 = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int Fish16 = 2131165289;
+			public const int BridgeLogReserveKit = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int Fish17 = 2131165290;
+			public const int CampsiteReserveKit = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int Fish18 = 2131165291;
+			public const int CapCostumeSnowball0 = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int Fish19 = 2131165292;
+			public const int CapCostumeStar0 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int Fish2 = 2131165293;
+			public const int CapFullfaceKnightGold = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int Fish20 = 2131165294;
+			public const int CapFullfaceKnightIron = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int Fish21 = 2131165295;
+			public const int CapHatAjiroBeige = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int Fish22 = 2131165296;
+			public const int CapHatApple0 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int Fish23 = 2131165297;
+			public const int CapHatCherry0 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int Fish24 = 2131165298;
+			public const int CapHatEggfish0 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int Fish26 = 2131165299;
+			public const int CapHatEggforest0 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int Fish27 = 2131165300;
+			public const int CapHatEggground0 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int Fish28 = 2131165301;
+			public const int CapHatEggleaf0 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int Fish29 = 2131165302;
+			public const int CapHatEggparty0 = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int Fish3 = 2131165303;
+			public const int CapHatEggrock0 = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int Fish30 = 2131165304;
+			public const int CapHatEggsky0 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int Fish31 = 2131165305;
+			public const int CapHatOrange = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int Fish32 = 2131165306;
+			public const int CapHatPeach0 = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int Fish33 = 2131165307;
+			public const int CapHatPear0 = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int Fish34 = 2131165308;
+			public const int CapHatSandogasa0 = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int Fish35 = 2131165309;
+			public const int CapMaskLeaf0 = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int Fish36 = 2131165310;
+			public const int CapOrnamentAnemone1 = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int Fish37 = 2131165311;
+			public const int CapOrnamentAnemone2 = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int Fish39 = 2131165312;
+			public const int CapOrnamentAnemone3 = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int Fish40 = 2131165313;
+			public const int CapOrnamentCEgg0 = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int Fish41 = 2131165314;
+			public const int CapOrnamentCosmos1 = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int Fish42 = 2131165315;
+			public const int CapOrnamentCosmos2 = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int Fish43 = 2131165316;
+			public const int CapOrnamentCosmos3 = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int Fish44 = 2131165317;
+			public const int CapOrnamentHyacinth1 = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int Fish45 = 2131165318;
+			public const int CapOrnamentHyacinth2 = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int Fish46 = 2131165319;
+			public const int CapOrnamentHyacinth3 = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int Fish47 = 2131165320;
+			public const int CapOrnamentMum1 = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int Fish48 = 2131165321;
+			public const int CapOrnamentMum2 = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int Fish49 = 2131165322;
+			public const int CapOrnamentMum3 = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int Fish5 = 2131165323;
+			public const int CapOrnamentPansy1 = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int Fish50 = 2131165324;
+			public const int CapOrnamentPansy2 = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int Fish51 = 2131165325;
+			public const int CapOrnamentPansy3 = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int Fish52 = 2131165326;
+			public const int CapOrnamentRose1 = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int Fish54 = 2131165327;
+			public const int CapOrnamentRose2 = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int Fish55 = 2131165328;
+			public const int CapOrnamentRose3 = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int Fish56 = 2131165329;
+			public const int CapOrnamentRose4 = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int Fish57 = 2131165330;
+			public const int CapOrnamentRose5 = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int Fish58 = 2131165331;
+			public const int CapOrnamentTulip1 = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int Fish59 = 2131165332;
+			public const int CapOrnamentTulip2 = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int Fish6 = 2131165333;
+			public const int CapOrnamentTulip3 = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int Fish60 = 2131165334;
+			public const int CapOrnamentYuri1 = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int Fish61 = 2131165335;
+			public const int CapOrnamentYuri2 = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int Fish62 = 2131165336;
+			public const int CapOrnamentYuri3 = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int Fish63 = 2131165337;
+			public const int design_bottom_navigation_item_background = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int Fish64 = 2131165338;
+			public const int design_fab_background = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int Fish65 = 2131165339;
+			public const int design_ic_visibility = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int Fish66 = 2131165340;
+			public const int design_ic_visibility_off = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int Fish67 = 2131165341;
+			public const int design_password_eye = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int Fish68 = 2131165342;
+			public const int design_snackbar_background = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int Fish69 = 2131165343;
+			public const int Fish0 = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int Fish7 = 2131165344;
+			public const int Fish1 = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int Fish70 = 2131165345;
+			public const int Fish10 = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int Fish71 = 2131165346;
+			public const int Fish11 = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int Fish72 = 2131165347;
+			public const int Fish12 = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int Fish73 = 2131165348;
+			public const int Fish13 = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int Fish74 = 2131165349;
+			public const int Fish14 = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
-			public const int Fish75 = 2131165350;
+			public const int Fish16 = 2131165350;
 			
 			// aapt resource value: 0x7F0700A7
-			public const int Fish76 = 2131165351;
+			public const int Fish17 = 2131165351;
 			
 			// aapt resource value: 0x7F0700A8
-			public const int Fish77 = 2131165352;
+			public const int Fish18 = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int Fish78 = 2131165353;
+			public const int Fish19 = 2131165353;
 			
 			// aapt resource value: 0x7F0700AA
-			public const int Fish79 = 2131165354;
+			public const int Fish2 = 2131165354;
 			
 			// aapt resource value: 0x7F0700AB
-			public const int Fish8 = 2131165355;
+			public const int Fish20 = 2131165355;
 			
 			// aapt resource value: 0x7F0700AC
-			public const int Fish80 = 2131165356;
+			public const int Fish21 = 2131165356;
 			
 			// aapt resource value: 0x7F0700AD
-			public const int Fish81 = 2131165357;
+			public const int Fish22 = 2131165357;
 			
 			// aapt resource value: 0x7F0700AE
-			public const int Fish82 = 2131165358;
+			public const int Fish23 = 2131165358;
 			
 			// aapt resource value: 0x7F0700AF
-			public const int Fish83 = 2131165359;
+			public const int Fish24 = 2131165359;
 			
 			// aapt resource value: 0x7F0700B0
-			public const int Fish84 = 2131165360;
+			public const int Fish26 = 2131165360;
 			
 			// aapt resource value: 0x7F0700B1
-			public const int Fish85 = 2131165361;
+			public const int Fish27 = 2131165361;
 			
 			// aapt resource value: 0x7F0700B2
-			public const int Fish9 = 2131165362;
+			public const int Fish28 = 2131165362;
 			
 			// aapt resource value: 0x7F0700B3
-			public const int ic_mtrl_chip_checked_black = 2131165363;
+			public const int Fish29 = 2131165363;
 			
 			// aapt resource value: 0x7F0700B4
-			public const int ic_mtrl_chip_checked_circle = 2131165364;
+			public const int Fish3 = 2131165364;
 			
 			// aapt resource value: 0x7F0700B5
-			public const int ic_mtrl_chip_close_circle = 2131165365;
+			public const int Fish30 = 2131165365;
 			
 			// aapt resource value: 0x7F0700B6
-			public const int mtrl_snackbar_background = 2131165366;
+			public const int Fish31 = 2131165366;
 			
 			// aapt resource value: 0x7F0700B7
-			public const int mtrl_tabs_default_indicator = 2131165367;
+			public const int Fish32 = 2131165367;
 			
 			// aapt resource value: 0x7F0700B8
-			public const int navigation_empty_icon = 2131165368;
+			public const int Fish33 = 2131165368;
 			
 			// aapt resource value: 0x7F0700B9
-			public const int notification_action_background = 2131165369;
+			public const int Fish34 = 2131165369;
 			
 			// aapt resource value: 0x7F0700BA
-			public const int notification_bg = 2131165370;
+			public const int Fish35 = 2131165370;
 			
 			// aapt resource value: 0x7F0700BB
-			public const int notification_bg_low = 2131165371;
+			public const int Fish36 = 2131165371;
 			
 			// aapt resource value: 0x7F0700BC
-			public const int notification_bg_low_normal = 2131165372;
+			public const int Fish37 = 2131165372;
 			
 			// aapt resource value: 0x7F0700BD
-			public const int notification_bg_low_pressed = 2131165373;
+			public const int Fish39 = 2131165373;
 			
 			// aapt resource value: 0x7F0700BE
-			public const int notification_bg_normal = 2131165374;
+			public const int Fish40 = 2131165374;
 			
 			// aapt resource value: 0x7F0700BF
-			public const int notification_bg_normal_pressed = 2131165375;
+			public const int Fish41 = 2131165375;
 			
 			// aapt resource value: 0x7F0700C0
-			public const int notification_icon_background = 2131165376;
+			public const int Fish42 = 2131165376;
 			
 			// aapt resource value: 0x7F0700C1
-			public const int notification_template_icon_bg = 2131165377;
+			public const int Fish43 = 2131165377;
 			
 			// aapt resource value: 0x7F0700C2
-			public const int notification_template_icon_low_bg = 2131165378;
+			public const int Fish44 = 2131165378;
 			
 			// aapt resource value: 0x7F0700C3
-			public const int notification_tile_bg = 2131165379;
+			public const int Fish45 = 2131165379;
 			
 			// aapt resource value: 0x7F0700C4
-			public const int notify_panel_notification_icon_bg = 2131165380;
+			public const int Fish46 = 2131165380;
 			
 			// aapt resource value: 0x7F0700C5
-			public const int tooltip_frame_dark = 2131165381;
+			public const int Fish47 = 2131165381;
 			
 			// aapt resource value: 0x7F0700C6
-			public const int tooltip_frame_light = 2131165382;
+			public const int Fish48 = 2131165382;
 			
 			// aapt resource value: 0x7F0700C7
-			public const int xamarin_logo = 2131165383;
+			public const int Fish49 = 2131165383;
+			
+			// aapt resource value: 0x7F0700C8
+			public const int Fish5 = 2131165384;
+			
+			// aapt resource value: 0x7F0700C9
+			public const int Fish50 = 2131165385;
+			
+			// aapt resource value: 0x7F0700CA
+			public const int Fish51 = 2131165386;
+			
+			// aapt resource value: 0x7F0700CB
+			public const int Fish52 = 2131165387;
+			
+			// aapt resource value: 0x7F0700CC
+			public const int Fish54 = 2131165388;
+			
+			// aapt resource value: 0x7F0700CD
+			public const int Fish55 = 2131165389;
+			
+			// aapt resource value: 0x7F0700CE
+			public const int Fish56 = 2131165390;
+			
+			// aapt resource value: 0x7F0700CF
+			public const int Fish57 = 2131165391;
+			
+			// aapt resource value: 0x7F0700D0
+			public const int Fish58 = 2131165392;
+			
+			// aapt resource value: 0x7F0700D1
+			public const int Fish59 = 2131165393;
+			
+			// aapt resource value: 0x7F0700D2
+			public const int Fish6 = 2131165394;
+			
+			// aapt resource value: 0x7F0700D3
+			public const int Fish60 = 2131165395;
+			
+			// aapt resource value: 0x7F0700D4
+			public const int Fish61 = 2131165396;
+			
+			// aapt resource value: 0x7F0700D5
+			public const int Fish62 = 2131165397;
+			
+			// aapt resource value: 0x7F0700D6
+			public const int Fish63 = 2131165398;
+			
+			// aapt resource value: 0x7F0700D7
+			public const int Fish64 = 2131165399;
+			
+			// aapt resource value: 0x7F0700D8
+			public const int Fish65 = 2131165400;
+			
+			// aapt resource value: 0x7F0700D9
+			public const int Fish66 = 2131165401;
+			
+			// aapt resource value: 0x7F0700DA
+			public const int Fish67 = 2131165402;
+			
+			// aapt resource value: 0x7F0700DB
+			public const int Fish68 = 2131165403;
+			
+			// aapt resource value: 0x7F0700DC
+			public const int Fish69 = 2131165404;
+			
+			// aapt resource value: 0x7F0700DD
+			public const int Fish7 = 2131165405;
+			
+			// aapt resource value: 0x7F0700DE
+			public const int Fish70 = 2131165406;
+			
+			// aapt resource value: 0x7F0700DF
+			public const int Fish71 = 2131165407;
+			
+			// aapt resource value: 0x7F0700E0
+			public const int Fish72 = 2131165408;
+			
+			// aapt resource value: 0x7F0700E1
+			public const int Fish73 = 2131165409;
+			
+			// aapt resource value: 0x7F0700E2
+			public const int Fish74 = 2131165410;
+			
+			// aapt resource value: 0x7F0700E3
+			public const int Fish75 = 2131165411;
+			
+			// aapt resource value: 0x7F0700E4
+			public const int Fish76 = 2131165412;
+			
+			// aapt resource value: 0x7F0700E5
+			public const int Fish77 = 2131165413;
+			
+			// aapt resource value: 0x7F0700E6
+			public const int Fish78 = 2131165414;
+			
+			// aapt resource value: 0x7F0700E7
+			public const int Fish79 = 2131165415;
+			
+			// aapt resource value: 0x7F0700E8
+			public const int Fish8 = 2131165416;
+			
+			// aapt resource value: 0x7F0700E9
+			public const int Fish80 = 2131165417;
+			
+			// aapt resource value: 0x7F0700EA
+			public const int Fish81 = 2131165418;
+			
+			// aapt resource value: 0x7F0700EB
+			public const int Fish82 = 2131165419;
+			
+			// aapt resource value: 0x7F0700EC
+			public const int Fish83 = 2131165420;
+			
+			// aapt resource value: 0x7F0700ED
+			public const int Fish84 = 2131165421;
+			
+			// aapt resource value: 0x7F0700EE
+			public const int Fish85 = 2131165422;
+			
+			// aapt resource value: 0x7F0700EF
+			public const int Fish9 = 2131165423;
+			
+			// aapt resource value: 0x7F0700F0
+			public const int FishBait = 2131165424;
+			
+			// aapt resource value: 0x7F0700F1
+			public const int FtrAcorsticguitar = 2131165425;
+			
+			// aapt resource value: 0x7F0700F2
+			public const int FtrAlomapot = 2131165426;
+			
+			// aapt resource value: 0x7F0700F3
+			public const int FtrBalancingtoy = 2131165427;
+			
+			// aapt resource value: 0x7F0700F4
+			public const int FtrBambooBall = 2131165428;
+			
+			// aapt resource value: 0x7F0700F5
+			public const int FtrBambooBasket = 2131165429;
+			
+			// aapt resource value: 0x7F0700F6
+			public const int FtrBambooCandle = 2131165430;
+			
+			// aapt resource value: 0x7F0700F7
+			public const int FtrBambooCarstop = 2131165431;
+			
+			// aapt resource value: 0x7F0700F8
+			public const int FtrBambooChairL = 2131165432;
+			
+			// aapt resource value: 0x7F0700F9
+			public const int FtrBamboodrum = 2131165433;
+			
+			// aapt resource value: 0x7F0700FA
+			public const int FtrBambooFlowerwall = 2131165434;
+			
+			// aapt resource value: 0x7F0700FB
+			public const int FtrBambooLamp = 2131165435;
+			
+			// aapt resource value: 0x7F0700FC
+			public const int FtrBambooLunch = 2131165436;
+			
+			// aapt resource value: 0x7F0700FD
+			public const int FtrBambooMusic = 2131165437;
+			
+			// aapt resource value: 0x7F0700FE
+			public const int FtrBambooScreen = 2131165438;
+			
+			// aapt resource value: 0x7F0700FF
+			public const int FtrBambooShelf = 2131165439;
+			
+			// aapt resource value: 0x7F070100
+			public const int FtrBambooshootLamp = 2131165440;
+			
+			// aapt resource value: 0x7F070101
+			public const int FtrBambooSomen = 2131165441;
+			
+			// aapt resource value: 0x7F070102
+			public const int FtrBambooStool = 2131165442;
+			
+			// aapt resource value: 0x7F070103
+			public const int FtrBambooSurprisedbox = 2131165443;
+			
+			// aapt resource value: 0x7F070104
+			public const int FtrBarbell = 2131165444;
+			
+			// aapt resource value: 0x7F070105
+			public const int FtrBasketsteamer = 2131165445;
+			
+			// aapt resource value: 0x7F070106
+			public const int FtrBearXL = 2131165446;
+			
+			// aapt resource value: 0x7F070107
+			public const int FtrBeekeepingbox = 2131165447;
+			
+			// aapt resource value: 0x7F070108
+			public const int FtrBirdbus = 2131165448;
+			
+			// aapt resource value: 0x7F070109
+			public const int FtrBirdcage = 2131165449;
+			
+			// aapt resource value: 0x7F07010A
+			public const int FtrBirdhouse = 2131165450;
+			
+			// aapt resource value: 0x7F07010B
+			public const int FtrBlockBedS = 2131165451;
+			
+			// aapt resource value: 0x7F07010C
+			public const int FtrBlockBrick = 2131165452;
+			
+			// aapt resource value: 0x7F07010D
+			public const int FtrBlockChairL = 2131165453;
+			
+			// aapt resource value: 0x7F07010E
+			public const int FtrBlockChairS = 2131165454;
+			
+			// aapt resource value: 0x7F07010F
+			public const int FtrBlockChest = 2131165455;
+			
+			// aapt resource value: 0x7F070110
+			public const int FtrBlockClock = 2131165456;
+			
+			// aapt resource value: 0x7F070111
+			public const int FtrBlockCompo = 2131165457;
+			
+			// aapt resource value: 0x7F070112
+			public const int FtrBlockShelf = 2131165458;
+			
+			// aapt resource value: 0x7F070113
+			public const int FtrBlockStoolS = 2131165459;
+			
+			// aapt resource value: 0x7F070114
+			public const int FtrBlockTableL = 2131165460;
+			
+			// aapt resource value: 0x7F070115
+			public const int FtrBonfire = 2131165461;
+			
+			// aapt resource value: 0x7F070116
+			public const int FtrBonsaiPine = 2131165462;
+			
+			// aapt resource value: 0x7F070117
+			public const int FtrBonsaiSakura = 2131165463;
+			
+			// aapt resource value: 0x7F070118
+			public const int FtrBonsaiShelf = 2131165464;
+			
+			// aapt resource value: 0x7F070119
+			public const int FtrBooks = 2131165465;
+			
+			// aapt resource value: 0x7F07011A
+			public const int FtrBookshelf = 2131165466;
+			
+			// aapt resource value: 0x7F07011B
+			public const int FtrBoomerang = 2131165467;
+			
+			// aapt resource value: 0x7F07011C
+			public const int FtrBucketWood = 2131165468;
+			
+			// aapt resource value: 0x7F07011D
+			public const int FtrButtermixer = 2131165469;
+			
+			// aapt resource value: 0x7F07011E
+			public const int FtrCampfire = 2131165470;
+			
+			// aapt resource value: 0x7F07011F
+			public const int FtrCandleXmas = 2131165471;
+			
+			// aapt resource value: 0x7F070120
+			public const int FtrCardboardBedS = 2131165472;
+			
+			// aapt resource value: 0x7F070121
+			public const int FtrCardboardChairS = 2131165473;
+			
+			// aapt resource value: 0x7F070122
+			public const int FtrCardboardSofaL = 2131165474;
+			
+			// aapt resource value: 0x7F070123
+			public const int FtrCardboardTableL = 2131165475;
+			
+			// aapt resource value: 0x7F070124
+			public const int FtrClaytoy = 2131165476;
+			
+			// aapt resource value: 0x7F070125
+			public const int FtrClothesline = 2131165477;
+			
+			// aapt resource value: 0x7F070126
+			public const int FtrCoconutjuice = 2131165478;
+			
+			// aapt resource value: 0x7F070127
+			public const int FtrCushionJapanPile = 2131165479;
+			
+			// aapt resource value: 0x7F070128
+			public const int FtrCuttingboard = 2131165480;
+			
+			// aapt resource value: 0x7F070129
+			public const int FtrDecoy = 2131165481;
+			
+			// aapt resource value: 0x7F07012A
+			public const int FtrDiningtableJapan = 2131165482;
+			
+			// aapt resource value: 0x7F07012B
+			public const int FtrDishesUnglazed = 2131165483;
+			
+			// aapt resource value: 0x7F07012C
+			public const int FtrDoghouse = 2131165484;
+			
+			// aapt resource value: 0x7F07012D
+			public const int FtrDollPyn = 2131165485;
+			
+			// aapt resource value: 0x7F07012E
+			public const int FtrDoorOrnamentCrest = 2131165486;
+			
+			// aapt resource value: 0x7F07012F
+			public const int FtrDoorOrnamentFossil = 2131165487;
+			
+			// aapt resource value: 0x7F070130
+			public const int FtrDoorOrnamentIron = 2131165488;
+			
+			// aapt resource value: 0x7F070131
+			public const int FtrDoorOrnamentLog = 2131165489;
+			
+			// aapt resource value: 0x7F070132
+			public const int FtrDoorOrnamentPaw = 2131165490;
+			
+			// aapt resource value: 0x7F070133
+			public const int FtrDoorOrnamentWreathAnemone = 2131165491;
+			
+			// aapt resource value: 0x7F070134
+			public const int FtrDoorOrnamentWreathAnemoneMix = 2131165492;
+			
+			// aapt resource value: 0x7F070135
+			public const int FtrDoorOrnamentWreathAnemoneRare = 2131165493;
+			
+			// aapt resource value: 0x7F070136
+			public const int FtrDoorOrnamentWreathBranch = 2131165494;
+			
+			// aapt resource value: 0x7F070137
+			public const int FtrDoorOrnamentWreathCosmos = 2131165495;
+			
+			// aapt resource value: 0x7F070138
+			public const int FtrDoorOrnamentWreathCosmosMix = 2131165496;
+			
+			// aapt resource value: 0x7F070139
+			public const int FtrDoorOrnamentWreathCosmosRare = 2131165497;
+			
+			// aapt resource value: 0x7F07013A
+			public const int FtrDoorOrnamentWreathEaster = 2131165498;
+			
+			// aapt resource value: 0x7F07013B
+			public const int FtrDoorOrnamentWreathFruit = 2131165499;
+			
+			// aapt resource value: 0x7F07013C
+			public const int FtrDoorOrnamentWreathHyacinth = 2131165500;
+			
+			// aapt resource value: 0x7F07013D
+			public const int FtrDoorOrnamentWreathHyacinthMix = 2131165501;
+			
+			// aapt resource value: 0x7F07013E
+			public const int FtrDoorOrnamentWreathHyacinthRare = 2131165502;
+			
+			// aapt resource value: 0x7F07013F
+			public const int FtrDoorOrnamentWreathIce = 2131165503;
+			
+			// aapt resource value: 0x7F070140
+			public const int FtrDoorOrnamentWreathMum = 2131165504;
+			
+			// aapt resource value: 0x7F070141
+			public const int FtrDoorOrnamentWreathMumMix = 2131165505;
+			
+			// aapt resource value: 0x7F070142
+			public const int FtrDoorOrnamentWreathMumRare = 2131165506;
+			
+			// aapt resource value: 0x7F070143
+			public const int FtrDoorOrnamentWreathMushroom = 2131165507;
+			
+			// aapt resource value: 0x7F070144
+			public const int FtrDoorOrnamentWreathOrnament = 2131165508;
+			
+			// aapt resource value: 0x7F070145
+			public const int FtrDoorOrnamentWreathPansy = 2131165509;
+			
+			// aapt resource value: 0x7F070146
+			public const int FtrDoorOrnamentWreathPansyMix = 2131165510;
+			
+			// aapt resource value: 0x7F070147
+			public const int FtrDoorOrnamentWreathPansyRare = 2131165511;
+			
+			// aapt resource value: 0x7F070148
+			public const int FtrDoorOrnamentWreathRose = 2131165512;
+			
+			// aapt resource value: 0x7F070149
+			public const int FtrDoorOrnamentWreathRoseGold = 2131165513;
+			
+			// aapt resource value: 0x7F07014A
+			public const int FtrDoorOrnamentWreathRoseMix = 2131165514;
+			
+			// aapt resource value: 0x7F07014B
+			public const int FtrDoorOrnamentWreathRoseRare = 2131165515;
+			
+			// aapt resource value: 0x7F07014C
+			public const int FtrDoorOrnamentWreathRoseUrtraRare = 2131165516;
+			
+			// aapt resource value: 0x7F07014D
+			public const int FtrDoorOrnamentWreathShell = 2131165517;
+			
+			// aapt resource value: 0x7F07014E
+			public const int FtrDoorOrnamentWreathTulip = 2131165518;
+			
+			// aapt resource value: 0x7F07014F
+			public const int FtrDoorOrnamentWreathTulipMix = 2131165519;
+			
+			// aapt resource value: 0x7F070150
+			public const int FtrDoorOrnamentWreathTulipRare = 2131165520;
+			
+			// aapt resource value: 0x7F070151
+			public const int FtrDoorOrnamentWreathYuri = 2131165521;
+			
+			// aapt resource value: 0x7F070152
+			public const int FtrDoorOrnamentWreathYuriMix = 2131165522;
+			
+			// aapt resource value: 0x7F070153
+			public const int FtrDoorOrnamentWreathYuriRare = 2131165523;
+			
+			// aapt resource value: 0x7F070154
+			public const int FtrDoorPlateBone = 2131165524;
+			
+			// aapt resource value: 0x7F070155
+			public const int FtrDrinkingfountain = 2131165525;
+			
+			// aapt resource value: 0x7F070156
+			public const int FtrDrumcanbath = 2131165526;
+			
+			// aapt resource value: 0x7F070157
+			public const int FtrEggArch = 2131165527;
+			
+			// aapt resource value: 0x7F070158
+			public const int FtrEggBalloonA = 2131165528;
+			
+			// aapt resource value: 0x7F070159
+			public const int FtrEggBalloonB = 2131165529;
+			
+			// aapt resource value: 0x7F07015A
+			public const int FtrEggBedW = 2131165530;
+			
+			// aapt resource value: 0x7F07015B
+			public const int FtrEggClock = 2131165531;
+			
+			// aapt resource value: 0x7F07015C
+			public const int FtrEggClosetLR = 2131165532;
+			
+			// aapt resource value: 0x7F07015D
+			public const int FtrEggDresser = 2131165533;
+			
+			// aapt resource value: 0x7F07015E
+			public const int FtrEggLamp = 2131165534;
+			
+			// aapt resource value: 0x7F07015F
+			public const int FtrEggLampWall = 2131165535;
+			
+			// aapt resource value: 0x7F070160
+			public const int FtrEggStool = 2131165536;
+			
+			// aapt resource value: 0x7F070161
+			public const int FtrEggTableS = 2131165537;
+			
+			// aapt resource value: 0x7F070162
+			public const int FtrFallenleaves = 2131165538;
+			
+			// aapt resource value: 0x7F070163
+			public const int FtrFallenleavesChairS = 2131165539;
+			
+			// aapt resource value: 0x7F070164
+			public const int FtrFallenleavesfire = 2131165540;
+			
+			// aapt resource value: 0x7F070165
+			public const int FtrFallenleavesGreen = 2131165541;
+			
+			// aapt resource value: 0x7F070166
+			public const int FtrFallenleavesRed = 2131165542;
+			
+			// aapt resource value: 0x7F070167
+			public const int FtrFallenleavesYellow = 2131165543;
+			
+			// aapt resource value: 0x7F070168
+			public const int FtrFestivaltop = 2131165544;
+			
+			// aapt resource value: 0x7F070169
+			public const int FtrFirewood = 2131165545;
+			
+			// aapt resource value: 0x7F07016A
+			public const int FtrFishArowanaGold = 2131165546;
+			
+			// aapt resource value: 0x7F07016B
+			public const int FtrFloat = 2131165547;
+			
+			// aapt resource value: 0x7F07016C
+			public const int FtrFloorpapers = 2131165548;
+			
+			// aapt resource value: 0x7F07016D
+			public const int FtrFlowerBedW = 2131165549;
+			
+			// aapt resource value: 0x7F07016E
+			public const int FtrFlowerFan = 2131165550;
+			
+			// aapt resource value: 0x7F07016F
+			public const int FtrFlowerLamp = 2131165551;
+			
+			// aapt resource value: 0x7F070170
+			public const int FtrFlowerRecordplayer = 2131165552;
+			
+			// aapt resource value: 0x7F070171
+			public const int FtrFlowerShower = 2131165553;
+			
+			// aapt resource value: 0x7F070172
+			public const int FtrFlowerStoolS = 2131165554;
+			
+			// aapt resource value: 0x7F070173
+			public const int FtrFlowerSurprisedbox = 2131165555;
+			
+			// aapt resource value: 0x7F070174
+			public const int FtrFlowerSwag = 2131165556;
+			
+			// aapt resource value: 0x7F070175
+			public const int FtrFlowerTableS = 2131165557;
+			
+			// aapt resource value: 0x7F070176
+			public const int FtrFountain = 2131165558;
+			
+			// aapt resource value: 0x7F070177
+			public const int FtrFruitbasket = 2131165559;
+			
+			// aapt resource value: 0x7F070178
+			public const int FtrFruitsBedS = 2131165560;
+			
+			// aapt resource value: 0x7F070179
+			public const int FtrFruitsBox = 2131165561;
+			
+			// aapt resource value: 0x7F07017A
+			public const int FtrFruitsChairApple = 2131165562;
+			
+			// aapt resource value: 0x7F07017B
+			public const int FtrFruitsChairPeach = 2131165563;
+			
+			// aapt resource value: 0x7F07017C
+			public const int FtrFruitsClockW = 2131165564;
+			
+			// aapt resource value: 0x7F07017D
+			public const int FtrFruitsClosetLR = 2131165565;
+			
+			// aapt resource value: 0x7F07017E
+			public const int FtrFruitsLampW = 2131165566;
+			
+			// aapt resource value: 0x7F07017F
+			public const int FtrFruitsMusic = 2131165567;
+			
+			// aapt resource value: 0x7F070180
+			public const int FtrFruitsTableS = 2131165568;
+			
+			// aapt resource value: 0x7F070181
+			public const int FtrFruitsTV = 2131165569;
+			
+			// aapt resource value: 0x7F070182
+			public const int FtrFruitswater = 2131165570;
+			
+			// aapt resource value: 0x7F070183
+			public const int FtrGarbagebag = 2131165571;
+			
+			// aapt resource value: 0x7F070184
+			public const int FtrGardenChairNatural = 2131165572;
+			
+			// aapt resource value: 0x7F070185
+			public const int FtrGardenrock = 2131165573;
+			
+			// aapt resource value: 0x7F070186
+			public const int FtrGardenrockLow = 2131165574;
+			
+			// aapt resource value: 0x7F070187
+			public const int FtrGardenrockMoss = 2131165575;
+			
+			// aapt resource value: 0x7F070188
+			public const int FtrGardenrockTall = 2131165576;
+			
+			// aapt resource value: 0x7F070189
+			public const int FtrGardenTableNatural = 2131165577;
+			
+			// aapt resource value: 0x7F07018A
+			public const int FtrGardenTableSNatural = 2131165578;
+			
+			// aapt resource value: 0x7F07018B
+			public const int FtrGardenwagon = 2131165579;
+			
+			// aapt resource value: 0x7F07018C
+			public const int FtrGearWallGold = 2131165580;
+			
+			// aapt resource value: 0x7F07018D
+			public const int FtrGoemonburo = 2131165581;
+			
+			// aapt resource value: 0x7F07018E
+			public const int FtrGoldbar = 2131165582;
+			
+			// aapt resource value: 0x7F07018F
+			public const int FtrGoldbench = 2131165583;
+			
+			// aapt resource value: 0x7F070190
+			public const int FtrGoldCandlestand = 2131165584;
+			
+			// aapt resource value: 0x7F070191
+			public const int FtrGoldCoffin = 2131165585;
+			
+			// aapt resource value: 0x7F070192
+			public const int FtrGoldDishes = 2131165586;
+			
+			// aapt resource value: 0x7F070193
+			public const int FtrGoldWC = 2131165587;
+			
+			// aapt resource value: 0x7F070194
+			public const int FtrGravestoneEuropean = 2131165588;
+			
+			// aapt resource value: 0x7F070195
+			public const int FtrGravestoneJapan = 2131165589;
+			
+			// aapt resource value: 0x7F070196
+			public const int FtrHandpump = 2131165590;
+			
+			// aapt resource value: 0x7F070197
+			public const int FtrHariboteGrass = 2131165591;
+			
+			// aapt resource value: 0x7F070198
+			public const int FtrHariboteHedge = 2131165592;
+			
+			// aapt resource value: 0x7F070199
+			public const int FtrHariboteMountain = 2131165593;
+			
+			// aapt resource value: 0x7F07019A
+			public const int FtrHariboteTree = 2131165594;
+			
+			// aapt resource value: 0x7F07019B
+			public const int FtrHaybed = 2131165595;
+			
+			// aapt resource value: 0x7F07019C
+			public const int FtrHerorobot = 2131165596;
+			
+			// aapt resource value: 0x7F07019D
+			public const int FtrHuntingtrophy = 2131165597;
+			
+			// aapt resource value: 0x7F07019E
+			public const int FtrIceArt = 2131165598;
+			
+			// aapt resource value: 0x7F07019F
+			public const int FtrIceBedW = 2131165599;
+			
+			// aapt resource value: 0x7F0701A0
+			public const int FtrIceCandy = 2131165600;
+			
+			// aapt resource value: 0x7F0701A1
+			public const int FtrIceChairS = 2131165601;
+			
+			// aapt resource value: 0x7F0701A2
+			public const int FtrIceCounter = 2131165602;
+			
+			// aapt resource value: 0x7F0701A3
+			public const int FtrIceGate = 2131165603;
+			
+			// aapt resource value: 0x7F0701A4
+			public const int FtrIcePillar = 2131165604;
+			
+			// aapt resource value: 0x7F0701A5
+			public const int FtrIceScreen = 2131165605;
+			
+			// aapt resource value: 0x7F0701A6
+			public const int FtrIceTableL = 2131165606;
+			
+			// aapt resource value: 0x7F0701A7
+			public const int FtrIceTree = 2131165607;
+			
+			// aapt resource value: 0x7F0701A8
+			public const int FtrIllumiPresent = 2131165608;
+			
+			// aapt resource value: 0x7F0701A9
+			public const int FtrIllumiReindeer = 2131165609;
+			
+			// aapt resource value: 0x7F0701AA
+			public const int FtrIllumiSnow = 2131165610;
+			
+			// aapt resource value: 0x7F0701AB
+			public const int FtrIllumiTree = 2131165611;
+			
+			// aapt resource value: 0x7F0701AC
+			public const int FtrInsectKabutomushiGold = 2131165612;
+			
+			// aapt resource value: 0x7F0701AD
+			public const int FtrIronClosetLR = 2131165613;
+			
+			// aapt resource value: 0x7F0701AE
+			public const int FtrIronframe = 2131165614;
+			
+			// aapt resource value: 0x7F0701AF
+			public const int FtrIrongardenBench = 2131165615;
+			
+			// aapt resource value: 0x7F0701B0
+			public const int FtrIrongardenChair = 2131165616;
+			
+			// aapt resource value: 0x7F0701B1
+			public const int FtrIrongardenTable = 2131165617;
+			
+			// aapt resource value: 0x7F0701B2
+			public const int FtrIronHanger = 2131165618;
+			
+			// aapt resource value: 0x7F0701B3
+			public const int FtrIronLampW = 2131165619;
+			
+			// aapt resource value: 0x7F0701B4
+			public const int FtrIronShelf = 2131165620;
+			
+			// aapt resource value: 0x7F0701B5
+			public const int FtrIronShelfW = 2131165621;
+			
+			// aapt resource value: 0x7F0701B6
+			public const int FtrIronTableM = 2131165622;
+			
+			// aapt resource value: 0x7F0701B7
+			public const int FtrIronwoodBedS = 2131165623;
+			
+			// aapt resource value: 0x7F0701B8
+			public const int FtrIronwoodChairS = 2131165624;
+			
+			// aapt resource value: 0x7F0701B9
+			public const int FtrIronwoodChest = 2131165625;
+			
+			// aapt resource value: 0x7F0701BA
+			public const int FtrIronwoodClockW = 2131165626;
+			
+			// aapt resource value: 0x7F0701BB
+			public const int FtrIronwoodCupboard = 2131165627;
+			
+			// aapt resource value: 0x7F0701BC
+			public const int FtrIronwoodKitchen = 2131165628;
+			
+			// aapt resource value: 0x7F0701BD
+			public const int FtrIronwoodServingcart = 2131165629;
+			
+			// aapt resource value: 0x7F0701BE
+			public const int FtrIronwoodTableL = 2131165630;
+			
+			// aapt resource value: 0x7F0701BF
+			public const int FtrIronwoodTableM = 2131165631;
+			
+			// aapt resource value: 0x7F0701C0
+			public const int FtrIrori = 2131165632;
+			
+			// aapt resource value: 0x7F0701C1
+			public const int FtrKalimbaCan = 2131165633;
+			
+			// aapt resource value: 0x7F0701C2
+			public const int FtrKame = 2131165634;
+			
+			// aapt resource value: 0x7F0701C3
+			public const int FtrKatakatatoy = 2131165635;
+			
+			// aapt resource value: 0x7F0701C4
+			public const int FtrKettlebell = 2131165636;
+			
+			// aapt resource value: 0x7F0701C5
+			public const int FtrKeyhanger = 2131165637;
+			
+			// aapt resource value: 0x7F0701C6
+			public const int FtrLeafWall = 2131165638;
+			
+			// aapt resource value: 0x7F0701C7
+			public const int FtrLogBedS = 2131165639;
+			
+			// aapt resource value: 0x7F0701C8
+			public const int FtrLogBedW = 2131165640;
+			
+			// aapt resource value: 0x7F0701C9
+			public const int FtrLogClockWall = 2131165641;
+			
+			// aapt resource value: 0x7F0701CA
+			public const int FtrLogShelf = 2131165642;
+			
+			// aapt resource value: 0x7F0701CB
+			public const int FtrLogSofaL = 2131165643;
+			
+			// aapt resource value: 0x7F0701CC
+			public const int FtrLogSofaS = 2131165644;
+			
+			// aapt resource value: 0x7F0701CD
+			public const int FtrLogStoolL = 2131165645;
+			
+			// aapt resource value: 0x7F0701CE
+			public const int FtrLogStoolS = 2131165646;
+			
+			// aapt resource value: 0x7F0701CF
+			public const int FtrLogTableL = 2131165647;
+			
+			// aapt resource value: 0x7F0701D0
+			public const int FtrLogTableLRound = 2131165648;
+			
+			// aapt resource value: 0x7F0701D1
+			public const int FtrMagagine = 2131165649;
+			
+			// aapt resource value: 0x7F0701D2
+			public const int FtrMagazinerack = 2131165650;
+			
+			// aapt resource value: 0x7F0701D3
+			public const int FtrManekinekoGold = 2131165651;
+			
+			// aapt resource value: 0x7F0701D4
+			public const int FtrManhole = 2131165652;
+			
+			// aapt resource value: 0x7F0701D5
+			public const int FtrMatryoshka = 2131165653;
+			
+			// aapt resource value: 0x7F0701D6
+			public const int FtrMermaidBedS = 2131165654;
+			
+			// aapt resource value: 0x7F0701D7
+			public const int FtrMermaidChairL = 2131165655;
+			
+			// aapt resource value: 0x7F0701D8
+			public const int FtrMermaidChairS = 2131165656;
+			
+			// aapt resource value: 0x7F0701D9
+			public const int FtrMermaidChest = 2131165657;
+			
+			// aapt resource value: 0x7F0701DA
+			public const int FtrMermaidclockWall = 2131165658;
+			
+			// aapt resource value: 0x7F0701DB
+			public const int FtrMermaidClosetLR = 2131165659;
+			
+			// aapt resource value: 0x7F0701DC
+			public const int FtrMermaidDresser = 2131165660;
+			
+			// aapt resource value: 0x7F0701DD
+			public const int FtrMermaidLamp = 2131165661;
+			
+			// aapt resource value: 0x7F0701DE
+			public const int FtrMermaidScreen = 2131165662;
+			
+			// aapt resource value: 0x7F0701DF
+			public const int FtrMermaidShelf = 2131165663;
+			
+			// aapt resource value: 0x7F0701E0
+			public const int FtrMermaidTableM = 2131165664;
+			
+			// aapt resource value: 0x7F0701E1
+			public const int FtrMeteo = 2131165665;
+			
+			// aapt resource value: 0x7F0701E2
+			public const int FtrMicrolibrary = 2131165666;
+			
+			// aapt resource value: 0x7F0701E3
+			public const int FtrModule = 2131165667;
+			
+			// aapt resource value: 0x7F0701E4
+			public const int FtrMokugyo = 2131165668;
+			
+			// aapt resource value: 0x7F0701E5
+			public const int FtrMoon = 2131165669;
+			
+			// aapt resource value: 0x7F0701E6
+			public const int FtrMoonrover = 2131165670;
+			
+			// aapt resource value: 0x7F0701E7
+			public const int FtrMovingboxL = 2131165671;
+			
+			// aapt resource value: 0x7F0701E8
+			public const int FtrMovingboxM = 2131165672;
+			
+			// aapt resource value: 0x7F0701E9
+			public const int FtrMovingboxS = 2131165673;
+			
+			// aapt resource value: 0x7F0701EA
+			public const int FtrMushroomChairS = 2131165674;
+			
+			// aapt resource value: 0x7F0701EB
+			public const int FtrMushroomLamp = 2131165675;
+			
+			// aapt resource value: 0x7F0701EC
+			public const int FtrMushroomParasol = 2131165676;
+			
+			// aapt resource value: 0x7F0701ED
+			public const int FtrMushroomPulpwood = 2131165677;
+			
+			// aapt resource value: 0x7F0701EE
+			public const int FtrMushroomScreen = 2131165678;
+			
+			// aapt resource value: 0x7F0701EF
+			public const int FtrMushroomTableL = 2131165679;
+			
+			// aapt resource value: 0x7F0701F0
+			public const int FtrMusicstand = 2131165680;
+			
+			// aapt resource value: 0x7F0701F1
+			public const int FtrNutArch = 2131165681;
+			
+			// aapt resource value: 0x7F0701F2
+			public const int FtrNutLamp = 2131165682;
+			
+			// aapt resource value: 0x7F0701F3
+			public const int FtrNutMobile = 2131165683;
+			
+			// aapt resource value: 0x7F0701F4
+			public const int FtrNutTreeL = 2131165684;
+			
+			// aapt resource value: 0x7F0701F5
+			public const int FtrNutTreeS = 2131165685;
+			
+			// aapt resource value: 0x7F0701F6
+			public const int FtrOfficePapers = 2131165686;
+			
+			// aapt resource value: 0x7F0701F7
+			public const int FtrOpenairbath = 2131165687;
+			
+			// aapt resource value: 0x7F0701F8
+			public const int FtrOrnamentMobile = 2131165688;
+			
+			// aapt resource value: 0x7F0701F9
+			public const int FtrOrnamentTanuki = 2131165689;
+			
+			// aapt resource value: 0x7F0701FA
+			public const int FtrPalmtreelamp = 2131165690;
+			
+			// aapt resource value: 0x7F0701FB
+			public const int FtrPan = 2131165691;
+			
+			// aapt resource value: 0x7F0701FC
+			public const int FtrParkbenche = 2131165692;
+			
+			// aapt resource value: 0x7F0701FD
+			public const int FtrPianoStreet = 2131165693;
+			
+			// aapt resource value: 0x7F0701FE
+			public const int FtrPirateBarrel = 2131165694;
+			
+			// aapt resource value: 0x7F0701FF
+			public const int FtrPlanterPalm = 2131165695;
+			
+			// aapt resource value: 0x7F070200
+			public const int FtrPlantSucculents = 2131165696;
+			
+			// aapt resource value: 0x7F070201
+			public const int FtrPlayingtire = 2131165697;
+			
+			// aapt resource value: 0x7F070202
+			public const int FtrPotteryjug = 2131165698;
+			
+			// aapt resource value: 0x7F070203
+			public const int FtrQuoits = 2131165699;
+			
+			// aapt resource value: 0x7F070204
+			public const int FtrRockArch = 2131165700;
+			
+			// aapt resource value: 0x7F070205
+			public const int FtrRocket = 2131165701;
+			
+			// aapt resource value: 0x7F070206
+			public const int FtrRockingchair = 2131165702;
+			
+			// aapt resource value: 0x7F070207
+			public const int FtrRockinghorse = 2131165703;
+			
+			// aapt resource value: 0x7F070208
+			public const int FtrRockMonument = 2131165704;
+			
+			// aapt resource value: 0x7F070209
+			public const int FtrSakuraBranch = 2131165705;
+			
+			// aapt resource value: 0x7F07020A
+			public const int FtrSakuraClockW = 2131165706;
+			
+			// aapt resource value: 0x7F07020B
+			public const int FtrSakuraLantern = 2131165707;
+			
+			// aapt resource value: 0x7F07020C
+			public const int FtrSakuraPetal = 2131165708;
+			
+			// aapt resource value: 0x7F07020D
+			public const int FtrSakuraPicnicset = 2131165709;
+			
+			// aapt resource value: 0x7F07020E
+			public const int FtrSatellite = 2131165710;
+			
+			// aapt resource value: 0x7F07020F
+			public const int FtrScarecrow = 2131165711;
+			
+			// aapt resource value: 0x7F070210
+			public const int FtrScreenCage = 2131165712;
+			
+			// aapt resource value: 0x7F070211
+			public const int FtrSekishishi = 2131165713;
+			
+			// aapt resource value: 0x7F070212
+			public const int FtrShellArch = 2131165714;
+			
+			// aapt resource value: 0x7F070213
+			public const int FtrShellBedW = 2131165715;
+			
+			// aapt resource value: 0x7F070214
+			public const int FtrShellFountain = 2131165716;
+			
+			// aapt resource value: 0x7F070215
+			public const int FtrShellLamp = 2131165717;
+			
+			// aapt resource value: 0x7F070216
+			public const int FtrShellMusic = 2131165718;
+			
+			// aapt resource value: 0x7F070217
+			public const int FtrShellScreen = 2131165719;
+			
+			// aapt resource value: 0x7F070218
+			public const int FtrShellStoolS = 2131165720;
+			
+			// aapt resource value: 0x7F070219
+			public const int FtrShellTableL = 2131165721;
+			
+			// aapt resource value: 0x7F07021A
+			public const int FtrShishiodoshi = 2131165722;
+			
+			// aapt resource value: 0x7F07021B
+			public const int FtrShuttle = 2131165723;
+			
+			// aapt resource value: 0x7F07021C
+			public const int FtrSignboardWood = 2131165724;
+			
+			// aapt resource value: 0x7F07021D
+			public const int FtrSignpost = 2131165725;
+			
+			// aapt resource value: 0x7F07021E
+			public const int FtrSignpostTilt = 2131165726;
+			
+			// aapt resource value: 0x7F07021F
+			public const int FtrSignpostWorld = 2131165727;
+			
+			// aapt resource value: 0x7F070220
+			public const int FtrSignWood = 2131165728;
+			
+			// aapt resource value: 0x7F070221
+			public const int FtrSilo = 2131165729;
+			
+			// aapt resource value: 0x7F070222
+			public const int FtrSled = 2131165730;
+			
+			// aapt resource value: 0x7F070223
+			public const int FtrSnowman = 2131165731;
+			
+			// aapt resource value: 0x7F070224
+			public const int FtrSpacecraft = 2131165732;
+			
+			// aapt resource value: 0x7F070225
+			public const int FtrSpacesuit = 2131165733;
+			
+			// aapt resource value: 0x7F070226
+			public const int FtrStandflower = 2131165734;
+			
+			// aapt resource value: 0x7F070227
+			public const int FtrStarClock = 2131165735;
+			
+			// aapt resource value: 0x7F070228
+			public const int FtrStarDecorationWall = 2131165736;
+			
+			// aapt resource value: 0x7F070229
+			public const int FtrStarLamp = 2131165737;
+			
+			// aapt resource value: 0x7F07022A
+			public const int FtrStarMoonChairL = 2131165738;
+			
+			// aapt resource value: 0x7F07022B
+			public const int FtrStoneChair = 2131165739;
+			
+			// aapt resource value: 0x7F07022C
+			public const int FtrStonelantern = 2131165740;
+			
+			// aapt resource value: 0x7F07022D
+			public const int FtrStoneoven = 2131165741;
+			
+			// aapt resource value: 0x7F07022E
+			public const int FtrStoneTable = 2131165742;
+			
+			// aapt resource value: 0x7F07022F
+			public const int FtrStonewaterbowl = 2131165743;
+			
+			// aapt resource value: 0x7F070230
+			public const int FtrStonewaterbowlAutumun = 2131165744;
+			
+			// aapt resource value: 0x7F070231
+			public const int FtrStonewaterbowlSakura = 2131165745;
+			
+			// aapt resource value: 0x7F070232
+			public const int FtrStoveSauna = 2131165746;
+			
+			// aapt resource value: 0x7F070233
+			public const int FtrSwingWood = 2131165747;
+			
+			// aapt resource value: 0x7F070234
+			public const int FtrTamtam = 2131165748;
+			
+			// aapt resource value: 0x7F070235
+			public const int FtrTerrarium = 2131165749;
+			
+			// aapt resource value: 0x7F070236
+			public const int FtrTerrariumWall = 2131165750;
+			
+			// aapt resource value: 0x7F070237
+			public const int FtrTetrapod = 2131165751;
+			
+			// aapt resource value: 0x7F070238
+			public const int FtrToolboxWood = 2131165752;
+			
+			// aapt resource value: 0x7F070239
+			public const int FtrTorch = 2131165753;
+			
+			// aapt resource value: 0x7F07023A
+			public const int FtrTrashboxWood = 2131165754;
+			
+			// aapt resource value: 0x7F07023B
+			public const int FtrTreeXmasL = 2131165755;
+			
+			// aapt resource value: 0x7F07023C
+			public const int FtrTreeXmasMini = 2131165756;
+			
+			// aapt resource value: 0x7F07023D
+			public const int FtrTreeXmasS = 2131165757;
+			
+			// aapt resource value: 0x7F07023E
+			public const int FtrTrophycase = 2131165758;
+			
+			// aapt resource value: 0x7F07023F
+			public const int FtrTyres = 2131165759;
+			
+			// aapt resource value: 0x7F070240
+			public const int FtrUFO = 2131165760;
+			
+			// aapt resource value: 0x7F070241
+			public const int FtrUkulele = 2131165761;
+			
+			// aapt resource value: 0x7F070242
+			public const int FtrUmbrellastand = 2131165762;
+			
+			// aapt resource value: 0x7F070243
+			public const int FtrWashstandBowl = 2131165763;
+			
+			// aapt resource value: 0x7F070244
+			public const int FtrWashtub = 2131165764;
+			
+			// aapt resource value: 0x7F070245
+			public const int FtrWell = 2131165765;
+			
+			// aapt resource value: 0x7F070246
+			public const int FtrWellBrick = 2131165766;
+			
+			// aapt resource value: 0x7F070247
+			public const int FtrWoodBench = 2131165767;
+			
+			// aapt resource value: 0x7F070248
+			public const int FtrWoodenBedS = 2131165768;
+			
+			// aapt resource value: 0x7F070249
+			public const int FtrWoodenBedW = 2131165769;
+			
+			// aapt resource value: 0x7F07024A
+			public const int FtrWoodenChairS = 2131165770;
+			
+			// aapt resource value: 0x7F07024B
+			public const int FtrWoodenChest = 2131165771;
+			
+			// aapt resource value: 0x7F07024C
+			public const int FtrWoodenCloset = 2131165772;
+			
+			// aapt resource value: 0x7F07024D
+			public const int FtrWoodenMirror = 2131165773;
+			
+			// aapt resource value: 0x7F07024E
+			public const int FtrWoodenMirrorS = 2131165774;
+			
+			// aapt resource value: 0x7F07024F
+			public const int FtrWoodenStoolS = 2131165775;
+			
+			// aapt resource value: 0x7F070250
+			public const int FtrWoodenTableL = 2131165776;
+			
+			// aapt resource value: 0x7F070251
+			public const int FtrWoodenTableM = 2131165777;
+			
+			// aapt resource value: 0x7F070252
+			public const int FtrWoodenTableMini = 2131165778;
+			
+			// aapt resource value: 0x7F070253
+			public const int FtrWoodenTableS = 2131165779;
+			
+			// aapt resource value: 0x7F070254
+			public const int FtrWoodPile = 2131165780;
+			
+			// aapt resource value: 0x7F070255
+			public const int FtrWorkbench = 2131165781;
+			
+			// aapt resource value: 0x7F070256
+			public const int FtrWorkbenchIronwood = 2131165782;
+			
+			// aapt resource value: 0x7F070257
+			public const int FtrWorkbenchS = 2131165783;
+			
+			// aapt resource value: 0x7F070258
+			public const int FtrWorkbenchStump = 2131165784;
+			
+			// aapt resource value: 0x7F070259
+			public const int FtrZodiacAquarius = 2131165785;
+			
+			// aapt resource value: 0x7F07025A
+			public const int FtrZodiacAries = 2131165786;
+			
+			// aapt resource value: 0x7F07025B
+			public const int FtrZodiacCancer = 2131165787;
+			
+			// aapt resource value: 0x7F07025C
+			public const int FtrZodiacCapricornus = 2131165788;
+			
+			// aapt resource value: 0x7F07025D
+			public const int FtrZodiacGemini = 2131165789;
+			
+			// aapt resource value: 0x7F07025E
+			public const int FtrZodiacLeo = 2131165790;
+			
+			// aapt resource value: 0x7F07025F
+			public const int FtrZodiacLibra = 2131165791;
+			
+			// aapt resource value: 0x7F070260
+			public const int FtrZodiacPisces = 2131165792;
+			
+			// aapt resource value: 0x7F070261
+			public const int FtrZodiacSagittarius = 2131165793;
+			
+			// aapt resource value: 0x7F070262
+			public const int FtrZodiacScorpio = 2131165794;
+			
+			// aapt resource value: 0x7F070263
+			public const int FtrZodiacTaurus = 2131165795;
+			
+			// aapt resource value: 0x7F070264
+			public const int FtrZodiacVirgo = 2131165796;
+			
+			// aapt resource value: 0x7F070265
+			public const int ic_mtrl_chip_checked_black = 2131165797;
+			
+			// aapt resource value: 0x7F070266
+			public const int ic_mtrl_chip_checked_circle = 2131165798;
+			
+			// aapt resource value: 0x7F070267
+			public const int ic_mtrl_chip_close_circle = 2131165799;
+			
+			// aapt resource value: 0x7F070268
+			public const int ItemFenceBamboo = 2131165800;
+			
+			// aapt resource value: 0x7F070269
+			public const int ItemFenceBarbedWire = 2131165801;
+			
+			// aapt resource value: 0x7F07026A
+			public const int ItemFenceChinese = 2131165802;
+			
+			// aapt resource value: 0x7F07026B
+			public const int ItemFenceDriedStraw = 2131165803;
+			
+			// aapt resource value: 0x7F07026C
+			public const int ItemFenceEgg = 2131165804;
+			
+			// aapt resource value: 0x7F07026D
+			public const int ItemFenceHorizontalWood = 2131165805;
+			
+			// aapt resource value: 0x7F07026E
+			public const int ItemFenceIkegaki = 2131165806;
+			
+			// aapt resource value: 0x7F07026F
+			public const int ItemFenceIronAndStone = 2131165807;
+			
+			// aapt resource value: 0x7F070270
+			public const int ItemFenceJapanese = 2131165808;
+			
+			// aapt resource value: 0x7F070271
+			public const int ItemFenceJuneBride = 2131165809;
+			
+			// aapt resource value: 0x7F070272
+			public const int ItemFenceLatiiceNatural = 2131165810;
+			
+			// aapt resource value: 0x7F070273
+			public const int ItemFenceLog = 2131165811;
+			
+			// aapt resource value: 0x7F070274
+			public const int ItemFenceNatural = 2131165812;
+			
+			// aapt resource value: 0x7F070275
+			public const int ItemFencePegRope = 2131165813;
+			
+			// aapt resource value: 0x7F070276
+			public const int ItemFenceSharply = 2131165814;
+			
+			// aapt resource value: 0x7F070277
+			public const int ItemFenceSteel = 2131165815;
+			
+			// aapt resource value: 0x7F070278
+			public const int ItemFenceStone = 2131165816;
+			
+			// aapt resource value: 0x7F070279
+			public const int ItemFenceVerticalWood = 2131165817;
+			
+			// aapt resource value: 0x7F07027A
+			public const int ItemFenceWallRenga = 2131165818;
+			
+			// aapt resource value: 0x7F07027B
+			public const int ItemMedicine = 2131165819;
+			
+			// aapt resource value: 0x7F07027C
+			public const int LongWoodenStick = 2131165820;
+			
+			// aapt resource value: 0x7F07027D
+			public const int mtrl_snackbar_background = 2131165821;
+			
+			// aapt resource value: 0x7F07027E
+			public const int mtrl_tabs_default_indicator = 2131165822;
+			
+			// aapt resource value: 0x7F07027F
+			public const int navigation_empty_icon = 2131165823;
+			
+			// aapt resource value: 0x7F070280
+			public const int notification_action_background = 2131165824;
+			
+			// aapt resource value: 0x7F070281
+			public const int notification_bg = 2131165825;
+			
+			// aapt resource value: 0x7F070282
+			public const int notification_bg_low = 2131165826;
+			
+			// aapt resource value: 0x7F070283
+			public const int notification_bg_low_normal = 2131165827;
+			
+			// aapt resource value: 0x7F070284
+			public const int notification_bg_low_pressed = 2131165828;
+			
+			// aapt resource value: 0x7F070285
+			public const int notification_bg_normal = 2131165829;
+			
+			// aapt resource value: 0x7F070286
+			public const int notification_bg_normal_pressed = 2131165830;
+			
+			// aapt resource value: 0x7F070287
+			public const int notification_icon_background = 2131165831;
+			
+			// aapt resource value: 0x7F070288
+			public const int notification_template_icon_bg = 2131165832;
+			
+			// aapt resource value: 0x7F070289
+			public const int notification_template_icon_low_bg = 2131165833;
+			
+			// aapt resource value: 0x7F07028A
+			public const int notification_tile_bg = 2131165834;
+			
+			// aapt resource value: 0x7F07028B
+			public const int notify_panel_notification_icon_bg = 2131165835;
+			
+			// aapt resource value: 0x7F07028C
+			public const int PitfallSeed = 2131165836;
+			
+			// aapt resource value: 0x7F07028D
+			public const int RoomSpFloorFishTank00 = 2131165837;
+			
+			// aapt resource value: 0x7F07028E
+			public const int RoomSpFloorGalaxy00 = 2131165838;
+			
+			// aapt resource value: 0x7F07028F
+			public const int RoomSpFloorIce00 = 2131165839;
+			
+			// aapt resource value: 0x7F070290
+			public const int RoomSpFloorIceFloe00 = 2131165840;
+			
+			// aapt resource value: 0x7F070291
+			public const int RoomSpFloorMermaid00 = 2131165841;
+			
+			// aapt resource value: 0x7F070292
+			public const int RoomSpFloorSF00 = 2131165842;
+			
+			// aapt resource value: 0x7F070293
+			public const int RoomSpFloorWater00 = 2131165843;
+			
+			// aapt resource value: 0x7F070294
+			public const int RoomSpWallAutumun00 = 2131165844;
+			
+			// aapt resource value: 0x7F070295
+			public const int RoomSpWallFishTank00 = 2131165845;
+			
+			// aapt resource value: 0x7F070296
+			public const int RoomSpWallGelande00 = 2131165846;
+			
+			// aapt resource value: 0x7F070297
+			public const int RoomSpWallIce00 = 2131165847;
+			
+			// aapt resource value: 0x7F070298
+			public const int RoomSpWallMermaid00 = 2131165848;
+			
+			// aapt resource value: 0x7F070299
+			public const int RoomSpWallSakura00 = 2131165849;
+			
+			// aapt resource value: 0x7F07029A
+			public const int RoomSpWallSF00 = 2131165850;
+			
+			// aapt resource value: 0x7F07029B
+			public const int RoomSpWallStarPrint00 = 2131165851;
+			
+			// aapt resource value: 0x7F07029C
+			public const int RoomSpWallStarSky00 = 2131165852;
+			
+			// aapt resource value: 0x7F07029D
+			public const int RoomSpWallTropical00 = 2131165853;
+			
+			// aapt resource value: 0x7F07029E
+			public const int RoomSpWallXmas00 = 2131165854;
+			
+			// aapt resource value: 0x7F07029F
+			public const int RoomTexFloorAutumun00 = 2131165855;
+			
+			// aapt resource value: 0x7F0702A0
+			public const int RoomTexFloorBamboo00 = 2131165856;
+			
+			// aapt resource value: 0x7F0702A1
+			public const int RoomTexFloorBasement00 = 2131165857;
+			
+			// aapt resource value: 0x7F0702A2
+			public const int RoomTexFloorBill00 = 2131165858;
+			
+			// aapt resource value: 0x7F0702A3
+			public const int RoomTexFloorEaster00 = 2131165859;
+			
+			// aapt resource value: 0x7F0702A4
+			public const int RoomTexFloorGarbage00 = 2131165860;
+			
+			// aapt resource value: 0x7F0702A5
+			public const int RoomTexFloorGelande00 = 2131165861;
+			
+			// aapt resource value: 0x7F0702A6
+			public const int RoomTexFloorGold00 = 2131165862;
+			
+			// aapt resource value: 0x7F0702A7
+			public const int RoomTexFloorHoney00 = 2131165863;
+			
+			// aapt resource value: 0x7F0702A8
+			public const int RoomTexFloorJungle00 = 2131165864;
+			
+			// aapt resource value: 0x7F0702A9
+			public const int RoomTexFloorLawn00 = 2131165865;
+			
+			// aapt resource value: 0x7F0702AA
+			public const int RoomTexFloorLunar00 = 2131165866;
+			
+			// aapt resource value: 0x7F0702AB
+			public const int RoomTexFloorMushForest00 = 2131165867;
+			
+			// aapt resource value: 0x7F0702AC
+			public const int RoomTexFloorSakura00 = 2131165868;
+			
+			// aapt resource value: 0x7F0702AD
+			public const int RoomTexFloorSand00 = 2131165869;
+			
+			// aapt resource value: 0x7F0702AE
+			public const int RoomTexFloorSandStar00 = 2131165870;
+			
+			// aapt resource value: 0x7F0702AF
+			public const int RoomTexFloorSolidWood00 = 2131165871;
+			
+			// aapt resource value: 0x7F0702B0
+			public const int RoomTexFloorSteel00 = 2131165872;
+			
+			// aapt resource value: 0x7F0702B1
+			public const int RoomTexWallApple00 = 2131165873;
+			
+			// aapt resource value: 0x7F0702B2
+			public const int RoomTexWallBamboo00 = 2131165874;
+			
+			// aapt resource value: 0x7F0702B3
+			public const int RoomTexWallBasement00 = 2131165875;
+			
+			// aapt resource value: 0x7F0702B4
+			public const int RoomTexWallCedar00 = 2131165876;
+			
+			// aapt resource value: 0x7F0702B5
+			public const int RoomTexWallCherry00 = 2131165877;
+			
+			// aapt resource value: 0x7F0702B6
+			public const int RoomTexWallChikurin00 = 2131165878;
+			
+			// aapt resource value: 0x7F0702B7
+			public const int RoomTexWallEaster00 = 2131165879;
+			
+			// aapt resource value: 0x7F0702B8
+			public const int RoomTexWallFireWood00 = 2131165880;
+			
+			// aapt resource value: 0x7F0702B9
+			public const int RoomTexWallFusumaGorgeous00 = 2131165881;
+			
+			// aapt resource value: 0x7F0702BA
+			public const int RoomTexWallGarbage00 = 2131165882;
+			
+			// aapt resource value: 0x7F0702BB
+			public const int RoomTexWallGold00 = 2131165883;
+			
+			// aapt resource value: 0x7F0702BC
+			public const int RoomTexWallHerringbone00 = 2131165884;
+			
+			// aapt resource value: 0x7F0702BD
+			public const int RoomTexWallHerringbone01 = 2131165885;
+			
+			// aapt resource value: 0x7F0702BE
+			public const int RoomTexWallHoney00 = 2131165886;
+			
+			// aapt resource value: 0x7F0702BF
+			public const int RoomTexWallIceFloe00 = 2131165887;
+			
+			// aapt resource value: 0x7F0702C0
+			public const int RoomTexWallJukai00 = 2131165888;
+			
+			// aapt resource value: 0x7F0702C1
+			public const int RoomTexWallJungle00 = 2131165889;
+			
+			// aapt resource value: 0x7F0702C2
+			public const int RoomTexWallLibrary00 = 2131165890;
+			
+			// aapt resource value: 0x7F0702C3
+			public const int RoomTexWallLibrary01 = 2131165891;
+			
+			// aapt resource value: 0x7F0702C4
+			public const int RoomTexWallLog00 = 2131165892;
+			
+			// aapt resource value: 0x7F0702C5
+			public const int RoomTexWallMixPlankWood00 = 2131165893;
+			
+			// aapt resource value: 0x7F0702C6
+			public const int RoomTexWallMixPlankWood01 = 2131165894;
+			
+			// aapt resource value: 0x7F0702C7
+			public const int RoomTexWallMixwood00 = 2131165895;
+			
+			// aapt resource value: 0x7F0702C8
+			public const int RoomTexWallMush00 = 2131165896;
+			
+			// aapt resource value: 0x7F0702C9
+			public const int RoomTexWallMushForest00 = 2131165897;
+			
+			// aapt resource value: 0x7F0702CA
+			public const int RoomTexWallOrange00 = 2131165898;
+			
+			// aapt resource value: 0x7F0702CB
+			public const int RoomTexWallPeach00 = 2131165899;
+			
+			// aapt resource value: 0x7F0702CC
+			public const int RoomTexWallPear00 = 2131165900;
+			
+			// aapt resource value: 0x7F0702CD
+			public const int RoomTexWallSnowCrystal00 = 2131165901;
+			
+			// aapt resource value: 0x7F0702CE
+			public const int RoomTexWallSolidWood00 = 2131165902;
+			
+			// aapt resource value: 0x7F0702CF
+			public const int RoomTexWallSteel00 = 2131165903;
+			
+			// aapt resource value: 0x7F0702D0
+			public const int RoomTexWallStone00 = 2131165904;
+			
+			// aapt resource value: 0x7F0702D1
+			public const int RoomTexWallWildWood00 = 2131165905;
+			
+			// aapt resource value: 0x7F0702D2
+			public const int RugOtherAppleM00 = 2131165906;
+			
+			// aapt resource value: 0x7F0702D3
+			public const int RugOtherCherryM00 = 2131165907;
+			
+			// aapt resource value: 0x7F0702D4
+			public const int RugOtherEasterM00 = 2131165908;
+			
+			// aapt resource value: 0x7F0702D5
+			public const int RugOtherMermaidM00 = 2131165909;
+			
+			// aapt resource value: 0x7F0702D6
+			public const int RugOtherOrangeM00 = 2131165910;
+			
+			// aapt resource value: 0x7F0702D7
+			public const int RugOtherPeachM00 = 2131165911;
+			
+			// aapt resource value: 0x7F0702D8
+			public const int RugOtherPearM00 = 2131165912;
+			
+			// aapt resource value: 0x7F0702D9
+			public const int RugOtherShellM00 = 2131165913;
+			
+			// aapt resource value: 0x7F0702DA
+			public const int RugRectBambooM00 = 2131165914;
+			
+			// aapt resource value: 0x7F0702DB
+			public const int RugRectBambooM01 = 2131165915;
+			
+			// aapt resource value: 0x7F0702DC
+			public const int ShoesKneeKnightGold = 2131165916;
+			
+			// aapt resource value: 0x7F0702DD
+			public const int ShoesKneeKnightIron = 2131165917;
+			
+			// aapt resource value: 0x7F0702DE
+			public const int ShoesKneeRecyclingboots0 = 2131165918;
+			
+			// aapt resource value: 0x7F0702DF
+			public const int ShoesLowcutEggfish0 = 2131165919;
+			
+			// aapt resource value: 0x7F0702E0
+			public const int ShoesLowcutEggforest0 = 2131165920;
+			
+			// aapt resource value: 0x7F0702E1
+			public const int ShoesLowcutEggground0 = 2131165921;
+			
+			// aapt resource value: 0x7F0702E2
+			public const int ShoesLowcutEggleaf0 = 2131165922;
+			
+			// aapt resource value: 0x7F0702E3
+			public const int ShoesLowcutEggrock0 = 2131165923;
+			
+			// aapt resource value: 0x7F0702E4
+			public const int ShoesLowcutEggsky0 = 2131165924;
+			
+			// aapt resource value: 0x7F0702E5
+			public const int ToolAngling = 2131165925;
+			
+			// aapt resource value: 0x7F0702E6
+			public const int ToolAxe = 2131165926;
+			
+			// aapt resource value: 0x7F0702E7
+			public const int ToolAxeGold = 2131165927;
+			
+			// aapt resource value: 0x7F0702E8
+			public const int ToolAxeStone = 2131165928;
+			
+			// aapt resource value: 0x7F0702E9
+			public const int ToolAxeStoneNormal = 2131165929;
+			
+			// aapt resource value: 0x7F0702EA
+			public const int ToolChangeStick = 2131165930;
+			
+			// aapt resource value: 0x7F0702EB
+			public const int ToolFishingrodGold = 2131165931;
+			
+			// aapt resource value: 0x7F0702EC
+			public const int ToolFishingrodWood = 2131165932;
+			
+			// aapt resource value: 0x7F0702ED
+			public const int ToolLadder = 2131165933;
+			
+			// aapt resource value: 0x7F0702EE
+			public const int ToolNet = 2131165934;
+			
+			// aapt resource value: 0x7F0702EF
+			public const int ToolNetGold = 2131165935;
+			
+			// aapt resource value: 0x7F0702F0
+			public const int ToolNetNormal = 2131165936;
+			
+			// aapt resource value: 0x7F0702F1
+			public const int ToolOcarina = 2131165937;
+			
+			// aapt resource value: 0x7F0702F2
+			public const int ToolPanpipe = 2131165938;
+			
+			// aapt resource value: 0x7F0702F3
+			public const int ToolScoop = 2131165939;
+			
+			// aapt resource value: 0x7F0702F4
+			public const int ToolScoopGold = 2131165940;
+			
+			// aapt resource value: 0x7F0702F5
+			public const int ToolShovelWood = 2131165941;
+			
+			// aapt resource value: 0x7F0702F6
+			public const int ToolSlingshot = 2131165942;
+			
+			// aapt resource value: 0x7F0702F7
+			public const int ToolSlingshotGold = 2131165943;
+			
+			// aapt resource value: 0x7F0702F8
+			public const int ToolStickAnemones = 2131165944;
+			
+			// aapt resource value: 0x7F0702F9
+			public const int ToolStickBamboo = 2131165945;
+			
+			// aapt resource value: 0x7F0702FA
+			public const int ToolStickCherryblossom = 2131165946;
+			
+			// aapt resource value: 0x7F0702FB
+			public const int ToolStickChrysanthemum = 2131165947;
+			
+			// aapt resource value: 0x7F0702FC
+			public const int ToolStickCosmos = 2131165948;
+			
+			// aapt resource value: 0x7F0702FD
+			public const int ToolStickEgg = 2131165949;
+			
+			// aapt resource value: 0x7F0702FE
+			public const int ToolStickGolden = 2131165950;
+			
+			// aapt resource value: 0x7F0702FF
+			public const int ToolStickHyacinth = 2131165951;
+			
+			// aapt resource value: 0x7F070300
+			public const int ToolStickIron = 2131165952;
+			
+			// aapt resource value: 0x7F070301
+			public const int ToolStickJune = 2131165953;
+			
+			// aapt resource value: 0x7F070302
+			public const int ToolStickMushroom = 2131165954;
+			
+			// aapt resource value: 0x7F070303
+			public const int ToolStickPansy = 2131165955;
+			
+			// aapt resource value: 0x7F070304
+			public const int ToolStickRose = 2131165956;
+			
+			// aapt resource value: 0x7F070305
+			public const int ToolStickShell = 2131165957;
+			
+			// aapt resource value: 0x7F070306
+			public const int ToolStickSnow = 2131165958;
+			
+			// aapt resource value: 0x7F070307
+			public const int ToolStickTree = 2131165959;
+			
+			// aapt resource value: 0x7F070308
+			public const int ToolStickTulip = 2131165960;
+			
+			// aapt resource value: 0x7F070309
+			public const int ToolStickWood = 2131165961;
+			
+			// aapt resource value: 0x7F07030A
+			public const int ToolStickYuri = 2131165962;
+			
+			// aapt resource value: 0x7F07030B
+			public const int tooltip_frame_dark = 2131165963;
+			
+			// aapt resource value: 0x7F07030C
+			public const int tooltip_frame_light = 2131165964;
+			
+			// aapt resource value: 0x7F07030D
+			public const int ToolWatering = 2131165965;
+			
+			// aapt resource value: 0x7F07030E
+			public const int ToolWateringGold = 2131165966;
+			
+			// aapt resource value: 0x7F07030F
+			public const int ToolWateringWood = 2131165967;
+			
+			// aapt resource value: 0x7F070310
+			public const int TopsTexOnepieceAlineNApple0 = 2131165968;
+			
+			// aapt resource value: 0x7F070311
+			public const int TopsTexOnepieceAlineNCherry0 = 2131165969;
+			
+			// aapt resource value: 0x7F070312
+			public const int TopsTexOnepieceAlineNOrange = 2131165970;
+			
+			// aapt resource value: 0x7F070313
+			public const int TopsTexOnepieceAlineNPeach0 = 2131165971;
+			
+			// aapt resource value: 0x7F070314
+			public const int TopsTexOnepieceAlineNPear0 = 2131165972;
+			
+			// aapt resource value: 0x7F070315
+			public const int TopsTexOnepieceBalloonLEgg0 = 2131165973;
+			
+			// aapt resource value: 0x7F070316
+			public const int TopsTexOnepieceOverallLPlatearmorGold = 2131165974;
+			
+			// aapt resource value: 0x7F070317
+			public const int TopsTexOnepieceOverallLPlatearmorIron = 2131165975;
+			
+			// aapt resource value: 0x7F070318
+			public const int TopsTexOnepieceRibNEggfish0 = 2131165976;
+			
+			// aapt resource value: 0x7F070319
+			public const int TopsTexOnepieceRibNEggforest0 = 2131165977;
+			
+			// aapt resource value: 0x7F07031A
+			public const int TopsTexOnepieceRibNEggground0 = 2131165978;
+			
+			// aapt resource value: 0x7F07031B
+			public const int TopsTexOnepieceRibNEggleaf0 = 2131165979;
+			
+			// aapt resource value: 0x7F07031C
+			public const int TopsTexOnepieceRibNEggrock0 = 2131165980;
+			
+			// aapt resource value: 0x7F07031D
+			public const int TopsTexOnepieceRibNEggsky0 = 2131165981;
+			
+			// aapt resource value: 0x7F07031E
+			public const int TopsTexTopCoatLStrawBeige = 2131165982;
+			
+			// aapt resource value: 0x7F07031F
+			public const int UmbrellaApple0 = 2131165983;
+			
+			// aapt resource value: 0x7F070320
+			public const int UmbrellaAutumn0 = 2131165984;
+			
+			// aapt resource value: 0x7F070321
+			public const int UmbrellaCherry0 = 2131165985;
+			
+			// aapt resource value: 0x7F070322
+			public const int UmbrellaCherryblossom0 = 2131165986;
+			
+			// aapt resource value: 0x7F070323
+			public const int UmbrellaLeaf0 = 2131165987;
+			
+			// aapt resource value: 0x7F070324
+			public const int UmbrellaMushroom0 = 2131165988;
+			
+			// aapt resource value: 0x7F070325
+			public const int UmbrellaOrange0 = 2131165989;
+			
+			// aapt resource value: 0x7F070326
+			public const int UmbrellaPeach0 = 2131165990;
+			
+			// aapt resource value: 0x7F070327
+			public const int UmbrellaPear0 = 2131165991;
+			
+			// aapt resource value: 0x7F070328
+			public const int xamarin_logo = 2131165992;
 			
 			static Drawable()
 			{
