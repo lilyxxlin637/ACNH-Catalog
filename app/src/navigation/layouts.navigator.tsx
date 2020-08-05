@@ -15,6 +15,12 @@ export const LayoutsNavigator = (): React.ReactElement => (
     <Stack.Screen name='Layouts' component={LayoutsScreen}/>
     <Stack.Screen name='Auth' component={AuthNavigator}/>
     <Stack.Screen name='Social' component={SocialNavigator}/>
+    <Stack.Screen name='Fish' component={ArticlesNavigator}/>
+    <Stack.Screen name='Insects' component={ArticlesNavigator}/>
+    <Stack.Screen name='DIY' component={ArticlesNavigator}/>
+    <Stack.Screen name='Clothes' component={ArticlesNavigator}/>
+    <Stack.Screen name='Furnitures' component={ArticlesNavigator}/>
+    <Stack.Screen name='Fossils' component={ArticlesNavigator}/>
     <Stack.Screen name='Articles' component={ArticlesNavigator}/>
     <Stack.Screen name='Messaging' component={MessagingNavigator}/>
     <Stack.Screen name='Dashboards' component={DashboardsNavigator}/>

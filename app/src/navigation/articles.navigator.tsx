@@ -12,19 +12,11 @@ import { ArticleList2Screen } from '../scenes/articles/article-list-2.component'
 import { ArticleList3Screen } from '../scenes/articles/article-list-3.component';
 import { ArticleList4Screen } from '../scenes/articles/article-list-4.component';
 
-const TopTab = createMaterialTopTabNavigator();
 const Stack = createStackNavigator();
-
-const ArticlesMenuNavigator = (): React.ReactElement => (
-  <TopTab.Navigator tabBar={(props) => <ArticlesScreen {...props}/>}>
-    <TopTab.Screen name='ArticlesGrid' component={ArticlesGridScreen}/>
-    <TopTab.Screen name='ArticlesList' component={ArticlesListScreen}/>
-  </TopTab.Navigator>
-);
 
 export const ArticlesNavigator = (): React.ReactElement => (
   <Stack.Navigator headerMode='none'>
-    <Stack.Screen name='Articles' component={ArticlesMenuNavigator}/>
+    <Stack.Screen name='Articles' component={ArticlesScreen}/>
     <Stack.Screen name='Article1' component={Article1Screen}/>
     <Stack.Screen name='Article2' component={Article2Screen}/>
     <Stack.Screen name='Article3' component={Article3Screen}/>
