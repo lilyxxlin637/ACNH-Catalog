@@ -4,6 +4,12 @@ import { ThemedIcon } from '../../components/themed-icon.component';
 import {
   AssetArticlesDarkIcon,
   AssetArticlesIcon,
+  AssetFishIcon,
+  AssetInsectsIcon,
+  AssetFossilsIcon,
+  AssetDiyIcon,
+  AssetFurnitureIcon,
+  AssetClothesIcon,
   AssetAuthDarkIcon,
   AssetAuthIcon,
   AssetDashboardsDarkIcon,
@@ -23,42 +29,62 @@ export interface LayoutData extends MenuItem {
 
 export const data: LayoutData[] = [
   {
-    title: 'Auth',
-    route: 'Auth',
+    title: '鱼类',
+    route: 'Fish',
     icon: (style: ImageStyle) => {
       return React.createElement(
         ThemedIcon,
-        { ...style, light: AssetAuthIcon, dark: AssetAuthDarkIcon },
+        { ...style, light: AssetFishIcon, dark: AssetArticlesDarkIcon },
       );
     },
   },
   {
-    title: 'Social',
-    route: 'Social',
+    title: '虫类',
+    route: 'Insects',
     icon: (style: ImageStyle) => {
       return React.createElement(
         ThemedIcon,
-        { ...style, light: AssetSocialIcon, dark: AssetSocialDarkIcon },
+        { ...style, light: AssetInsectsIcon, dark: AssetArticlesDarkIcon },
       );
     },
   },
   {
-    title: 'Articles',
-    route: 'Articles',
+    title: '化石',
+    route: 'Fossils',
     icon: (style: ImageStyle) => {
       return React.createElement(
         ThemedIcon,
-        { ...style, light: AssetArticlesIcon, dark: AssetArticlesDarkIcon },
+        { ...style, light: AssetFossilsIcon, dark: AssetArticlesDarkIcon },
       );
     },
   },
   {
-    title: 'Messaging',
-    route: 'Messaging',
+    title: 'DIY',
+    route: 'DIY',
     icon: (style: ImageStyle) => {
       return React.createElement(
         ThemedIcon,
-        { ...style, light: AssetMessagingIcon, dark: AssetMessagingDarkIcon },
+        { ...style, light: AssetDiyIcon, dark: AssetArticlesDarkIcon },
+      );
+    },
+  },
+  {
+    title: '家具',
+    route: 'Furnitures',
+    icon: (style: ImageStyle) => {
+      return React.createElement(
+        ThemedIcon,
+        { ...style, light: AssetFurnitureIcon, dark: AssetArticlesDarkIcon },
+      );
+    },
+  },
+  {
+    title: '服装',
+    route: 'Clothes',
+    icon: (style: ImageStyle) => {
+      return React.createElement(
+        ThemedIcon,
+        { ...style, light: AssetClothesIcon, dark: AssetArticlesDarkIcon },
       );
     },
   },
@@ -71,15 +97,5 @@ export const data: LayoutData[] = [
         { ...style, light: AssetDashboardsIcon, dark: AssetDashboardsDarkIcon },
       );
     },
-  },
-  {
-    title: 'Ecommerce',
-    route: 'Ecommerce',
-    icon: (style: ImageStyle) => {
-      return React.createElement(
-        ThemedIcon,
-        { ...style, light: AssetEcommerceIcon, dark: AssetEcommerceDarkIcon },
-      );
-    },
-  },
+  }
 ];

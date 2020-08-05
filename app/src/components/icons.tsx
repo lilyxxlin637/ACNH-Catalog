@@ -94,6 +94,30 @@ export const AssetArticlesIcon = (style: ImageStyle): IconElement => (
   <Icon {...style} pack='app' name='articles'/>
 );
 
+export const AssetFishIcon = (style: ImageStyle): IconElement => (
+  <Icon {...style} pack='app' name='fish'/>
+);
+
+export const AssetInsectsIcon = (style: ImageStyle): IconElement => (
+  <Icon {...style} pack='app' name='insects'/>
+);
+
+export const AssetFossilsIcon = (style: ImageStyle): IconElement => (
+  <Icon {...style} pack='app' name='fossils'/>
+);
+
+export const AssetDiyIcon = (style: ImageStyle): IconElement => (
+  <Icon {...style} pack='app' name='diy'/>
+);
+
+export const AssetFurnitureIcon = (style: ImageStyle): IconElement => (
+  <Icon {...style} pack='app' name='furniture'/>
+);
+
+export const AssetClothesIcon = (style: ImageStyle): IconElement => (
+  <Icon {...style} pack='app' name='clothes'/>
+);
+
 export const AssetArticlesDarkIcon = (style: ImageStyle): IconElement => (
   <Icon {...style} pack='app' name='articles-dark'/>
 );
