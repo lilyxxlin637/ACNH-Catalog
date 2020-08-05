@@ -1,11 +1,15 @@
 # ACNH-Catalog
 
-动森助手，一个Xamarin App
+动森助手，一个React Native App
 
 # 安装
 
-1. 下载&安装 Visual Studio 2019，所有依赖包会自动安装
-2. 打开`app\ACNHCatalog.sln`，运行`ACNHCatalog.Android`或`ACNHCatalog.iOS`
+1. 安装npm, yarn
+2. 在`app`目录下打开terminal（或cmd.exe）
+3. 运行`yarn`安装依赖包
+4. 运行`yarn android` （mac使用`yarn ios`）
+
+**有任何问题，参见 https://github.com/akveo/kittenTricks/blob/master/DEV_DOCS.md**
 
 # TODO
 
