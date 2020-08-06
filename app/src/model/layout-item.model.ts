@@ -1,7 +1,8 @@
 import { ImageSourcePropType } from 'react-native';
 
 export interface LayoutItem {
-  title: string;
-  description: string;
-  image: ImageSourcePropType;
+  Name: string;
+  Description: string;
+  IconFilename: ImageSourcePropType;
+  Sell: number;
 }
