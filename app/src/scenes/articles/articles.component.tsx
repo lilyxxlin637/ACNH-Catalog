@@ -2,7 +2,7 @@ import React from 'react';
 import { Divider, TopNavigation, TopNavigationAction } from '@ui-kitten/components';
 import { SafeAreaLayout } from '../../components/safe-area-layout.component';
 import { BrandTabBar } from '../../components/brand-tab-bar.component';
-import { ArrowIosBackIcon, GridIcon, ListIcon } from '../../components/icons';
+import { ArrowIosBackIcon, GridIcon, ListIcon, CameraIcon } from '../../components/icons';
 import { LayoutList } from '../../components/layout-list.component';
 import { data } from './data';
 
@@ -16,6 +16,13 @@ export const ArticlesScreen = ({ navigation, state }): React.ReactElement => {
     navigation.navigate(data[index].route);
   };
 
+  const renderCameraAction = (): React.ReactElement => (
+    <TopNavigationAction
+      icon={CameraIcon}
+      onPress={navigation.goBack}
+    />
+  );
+
   const renderBackAction = (): React.ReactElement => (
     <TopNavigationAction
       icon={ArrowIosBackIcon}
@@ -28,6 +35,7 @@ export const ArticlesScreen = ({ navigation, state }): React.ReactElement => {
       <TopNavigation
         title='Articles'
         leftControl={renderBackAction()}
+        rightControls={renderCameraAction()}
       />
        <Divider/>
       <LayoutList
