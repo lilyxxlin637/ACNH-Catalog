@@ -13,7 +13,7 @@ export const ArticlesScreen = ({ navigation, state }): React.ReactElement => {
   };
 
   const onItemPress = (index: number): void => {
-    navigation.navigate(data[index].route);
+    navigation.navigate(data[index].route, {index: index, data: data});
   };
 
   const renderCameraAction = (): React.ReactElement => (

@@ -4,8 +4,13 @@ import { TopNavigation, TopNavigationAction } from '@ui-kitten/components';
 import { SafeAreaLayout } from '../../components/safe-area-layout.component';
 import { ArrowIosBackIcon } from '../../components/icons';
 import ContentView from '../../layouts/articles/article-1';
+import { AuthData } from './data';
 
-export const Article1Screen = ({ navigation }): React.ReactElement => {
+export const Article1Screen = ({ navigation, route }): React.ReactElement => {
+
+  const {params} = route;
+  const index = params ? params.index : null;
+  const data: AuthData[] = params ? params.data : null;
 
   const renderBackAction = (): React.ReactElement => (
     <TopNavigationAction
@@ -19,7 +24,7 @@ export const Article1Screen = ({ navigation }): React.ReactElement => {
       style={styles.container}
       insets='top'>
       <TopNavigation
-        title='Blog'
+        title={data[index].Name}
         leftControl={renderBackAction()}
       />
       <ContentView/>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { ListRenderItemInfo, Image, StyleSheet, View } from 'react-native';
-import { Card, CardElement, List, ListElement, ListProps, Text, Button } from '@ui-kitten/components';
+import { Card, CardElement, List, ListElement, ListProps, Text, Button, ListItem } from '@ui-kitten/components';
 import { LayoutItem } from '../model/layout-item.model';
 import { inlineStyles } from 'react-native-svg';
 
@@ -15,8 +15,8 @@ export const LayoutList = (props: LayoutListProps): ListElement => {
 
   const { contentContainerStyle, onItemPress, ...listProps } = props;
 
-  const renderItem = (info: ListRenderItemInfo<LayoutItem>): CardElement => (
-    <Card
+  const renderItem = (info: ListRenderItemInfo<LayoutItem>): ListElement => (
+    <ListItem
       style={styles.itemContainer}
       onPress={() => onItemPress(info.index)}>
       <View
@@ -41,7 +41,7 @@ export const LayoutList = (props: LayoutListProps): ListElement => {
            size='small'>拥有</Button>
         </View>
       </View>
-    </Card>
+    </ListItem>
   );
 
   return (
