@@ -5,4 +5,14 @@ export interface LayoutItem {
   Description: string;
   IconFilename: ImageSourcePropType;
   Sell: number;
+  EnglishName: string;
+  Size: string;
+  Color1: string;
+  Color2: string;
+  HHABasePoints: number;
+
+  InternalID: number;
+
+  CritterpediaFileName: string;
+  FurnitureFilename: string;
 }
