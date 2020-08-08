@@ -97,5 +97,5 @@ export const data: LayoutData[] = [
         { ...style, light: AssetDashboardsIcon, dark: AssetDashboardsDarkIcon },
       );
     },
-  }
+  },
 ];

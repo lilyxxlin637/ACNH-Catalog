@@ -28,6 +28,7 @@ export const Article1Screen = ({ navigation, route }): React.ReactElement => {
     <Text selectable style={{flexWrap: 'wrap', flex: 3}}>{props}</Text>
   );
 
+  // tslint:disable-next-line: no-shadowed-variable
   const renderItem = ({ item, index }) => {
     if (item.title === '博物馆描述') {
       return (

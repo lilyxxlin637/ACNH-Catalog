@@ -13,6 +13,6 @@ export interface LayoutItem {
 
   InternalID: number;
 
-  CritterpediaFileName: string;
+  CritterpediaFilename: string;
   FurnitureFilename: string;
 }

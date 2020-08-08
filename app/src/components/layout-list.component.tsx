@@ -111,5 +111,5 @@ const styles = StyleSheet.create({
     height: 20,
     backgroundColor: '#05c147',
     borderWidth: 0,
-  }
+  },
 });
