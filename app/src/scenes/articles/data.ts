@@ -19,6 +19,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Red',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '神仙鱼',
@@ -34,6 +35,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '巨骨舌鱼',
@@ -49,6 +51,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '骨舌鱼',
@@ -64,6 +67,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '条石鲷',
@@ -79,6 +83,7 @@ export const data: AuthData[] = [
     Color1: 'White',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '太平洋桶眼鱼',
@@ -94,6 +99,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '斗鱼',
@@ -109,6 +115,7 @@ export const data: AuthData[] = [
     Color1: 'Light blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '红目鲫',
@@ -124,6 +131,7 @@ export const data: AuthData[] = [
     Color1: 'Light blue',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '黑鲈鱼',
@@ -139,6 +147,7 @@ export const data: AuthData[] = [
     Color1: 'Green',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '河豚',
@@ -154,6 +163,7 @@ export const data: AuthData[] = [
     Color1: 'Beige',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '旗鱼',
@@ -169,6 +179,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '蓝腮太阳鱼',
@@ -184,6 +195,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '耳带蝴蝶鱼',
@@ -199,6 +211,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲤鱼',
@@ -214,6 +227,7 @@ export const data: AuthData[] = [
     Color1: 'Gray',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲶鱼',
@@ -229,6 +243,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '花羔红点鲑',
@@ -244,6 +259,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '樱花钩吻鲑',
@@ -259,6 +275,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '小丑鱼',
@@ -274,6 +291,7 @@ export const data: AuthData[] = [
     Color1: 'Orange',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '矛尾鱼',
@@ -289,6 +307,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '淡水龙虾',
@@ -304,6 +323,7 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲫鱼',
@@ -319,6 +339,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲽鱼',
@@ -334,6 +355,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '雅罗鱼',
@@ -349,6 +371,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '黄金河虎',
@@ -364,6 +387,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '灯笼鱼',
@@ -379,6 +403,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '塘鳢鱼',
@@ -394,6 +419,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '青蛙',
@@ -409,6 +435,7 @@ export const data: AuthData[] = [
     Color1: 'Green',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '雀鳝',
@@ -424,6 +451,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '黑鱼',
@@ -439,6 +467,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '白面弄鱼',
@@ -454,6 +483,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '金鳟',
@@ -469,6 +499,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '金鱼',
@@ -484,6 +515,7 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'Light blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲨鱼',
@@ -499,6 +531,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '孔雀鱼',
@@ -514,6 +547,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '双髻鲨',
@@ -529,6 +563,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '竹荚鱼',
@@ -544,6 +579,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '稻田鱼',
@@ -559,6 +595,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '帝王鲑',
@@ -574,6 +611,7 @@ export const data: AuthData[] = [
     Color1: 'Gray',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '锦鲤',
@@ -589,6 +627,7 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'White',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '泥鳅',
@@ -604,6 +643,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鬼头刀',
@@ -619,6 +659,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '中华绒螯蟹',
@@ -634,6 +675,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '裸胸鳝',
@@ -649,6 +691,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: 'Napoleonfish',
@@ -664,6 +707,7 @@ export const data: AuthData[] = [
     Color1: 'Light blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '霓虹灯鱼',
@@ -679,6 +723,7 @@ export const data: AuthData[] = [
     Color1: 'Light blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '温泉医生鱼',
@@ -694,6 +739,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '皇带鱼',
@@ -709,6 +755,7 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '翻车鱼',
@@ -724,6 +771,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Orange',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '比目鱼',
@@ -739,6 +787,7 @@ export const data: AuthData[] = [
     Color1: 'Beige',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '溪哥',
@@ -754,6 +803,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '白斑狗鱼',
@@ -769,6 +819,7 @@ export const data: AuthData[] = [
     Color1: 'Green',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '食人鱼',
@@ -784,6 +835,7 @@ export const data: AuthData[] = [
     Color1: 'Green',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '西太公鱼',
@@ -799,6 +851,7 @@ export const data: AuthData[] = [
     Color1: 'Orange',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '龙睛金鱼',
@@ -814,6 +867,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Light blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '刺豚',
@@ -829,6 +883,7 @@ export const data: AuthData[] = [
     Color1: 'Beige',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '彩虹鱼',
@@ -844,6 +899,7 @@ export const data: AuthData[] = [
     Color1: 'Orange',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '兰寿金鱼',
@@ -859,6 +915,7 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鳐鱼',
@@ -874,6 +931,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲷鱼',
@@ -889,6 +947,7 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '五彩鳗',
@@ -904,6 +963,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '恩氏多鳍鱼',
@@ -919,6 +979,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲑鱼',
@@ -934,6 +995,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '锯鲨',
@@ -949,6 +1011,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲈鱼',
@@ -964,6 +1027,7 @@ export const data: AuthData[] = [
     Color1: 'Gray',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '海天使',
@@ -979,6 +1043,7 @@ export const data: AuthData[] = [
     Color1: 'White',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '海马',
@@ -994,6 +1059,7 @@ export const data: AuthData[] = [
     Color1: 'Orange',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '拟鳄龟',
@@ -1009,6 +1075,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鳖',
@@ -1024,6 +1091,7 @@ export const data: AuthData[] = [
     Color1: 'Green',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鱿鱼',
@@ -1039,6 +1107,7 @@ export const data: AuthData[] = [
     Color1: 'Beige',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '远东哲罗鱼',
@@ -1054,6 +1123,7 @@ export const data: AuthData[] = [
     Color1: 'Brown',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲟鱼',
@@ -1069,6 +1139,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '吸盘鱼',
@@ -1084,6 +1155,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '拟刺尾鲷',
@@ -1099,6 +1171,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '香鱼',
@@ -1114,6 +1187,7 @@ export const data: AuthData[] = [
     Color1: 'Green',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '蝌蚪',
@@ -1129,6 +1203,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '吴郭鱼',
@@ -1144,6 +1219,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲔鱼',
@@ -1159,6 +1235,7 @@ export const data: AuthData[] = [
     Color1: 'Blue',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '鲸鲨',
@@ -1174,6 +1251,7 @@ export const data: AuthData[] = [
     Color1: 'Black',
     Color2: 'Blue',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '黄鲈鱼',
@@ -1189,6 +1267,7 @@ export const data: AuthData[] = [
     Color1: 'Yellow',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
   {
     Name: '狮子鱼',
@@ -1204,5 +1283,6 @@ export const data: AuthData[] = [
     Color1: 'Red',
     Color2: 'Black',
     route: 'Article1',
+    isOwned: false,
   },
 ];
