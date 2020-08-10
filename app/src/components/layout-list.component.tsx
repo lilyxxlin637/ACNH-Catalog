@@ -1,5 +1,5 @@
 import React from 'react';
-import { ListRenderItemInfo, Image, StyleSheet, View } from 'react-native';
+import { ListRenderItemInfo, Image, StyleSheet, View, TouchableOpacity } from 'react-native';
 import { Card, CardElement, List, ListElement, ListProps, Text, Button, ListItem } from '@ui-kitten/components';
 import { LayoutItem } from '../model/layout-item.model';
 import { inlineStyles } from 'react-native-svg';
@@ -11,7 +11,12 @@ export interface LayoutListProps extends Omit<ListProps, 'renderItem'> {
 
 export type LayoutListElement = React.ReactElement<LayoutListProps>;
 
+
 export const LayoutList = (props: LayoutListProps): ListElement => {
+
+  const onPress = (id: number): void => {
+    //
+  };
 
   const { contentContainerStyle, onItemPress, ...listProps } = props;
 
@@ -36,9 +41,9 @@ export const LayoutList = (props: LayoutListProps): ListElement => {
             style={styles.itemSell}>
             {info.item.Sell.toString()}
           </Text>
-          <Button
-           style={styles.itemButton}
-           size='small'>拥有</Button>
+          <TouchableOpacity onPress={() => onPress(info.item.InternalID)} style={styles.itemButton}>
+            <Text style={styles.itemButtonText}>拥有</Text>
+          </TouchableOpacity>
         </View>
       </View>
     </ListItem>
@@ -104,12 +109,18 @@ const styles = StyleSheet.create({
   },
   itemButton: {
     borderRadius: 20,
-    padding: 0,
+    paddingHorizontal: 7,
+    paddingVertical: 0,
     marginLeft: 10,
     marginHorizontal: 0,
     marginRight: 2,
     height: 20,
     backgroundColor: '#05c147',
     borderWidth: 0,
+  },
+  itemButtonText: {
+    color: '#ffffff',
+    fontSize: 12,
+    textAlignVertical: 'center',
   },
 });
