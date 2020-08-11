@@ -5,6 +5,7 @@ import { BrandTabBar } from '../../components/brand-tab-bar.component';
 import { ArrowIosBackIcon, GridIcon, ListIcon, CameraIcon } from '../../components/icons';
 import { LayoutList } from '../../components/layout-list.component';
 import { data } from './data';
+// import { camdata } from '../../camera/data'
 
 export const ArticlesScreen = ({ navigation, state }): React.ReactElement => {
 
@@ -19,7 +20,7 @@ export const ArticlesScreen = ({ navigation, state }): React.ReactElement => {
   const renderCameraAction = (): React.ReactElement => (
     <TopNavigationAction
       icon={CameraIcon}
-      onPress={navigation.goBack}
+      onPress={navigation && navigation.navigate("Camera")}
     />
   );
 

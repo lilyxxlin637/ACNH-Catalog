@@ -20,7 +20,9 @@ import {
   AssetMessagingIcon,
   AssetSocialDarkIcon,
   AssetSocialIcon,
+  CameraIcon,
 } from '../../components/icons';
+
 import { MenuItem } from '../../model/menu-item.model';
 
 export interface LayoutData extends MenuItem {
@@ -98,4 +100,5 @@ export const data: LayoutData[] = [
       );
     },
   },
+
 ];

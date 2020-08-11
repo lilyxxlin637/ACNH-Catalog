@@ -2,7 +2,7 @@ import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 import { AuthNavigator } from './auth.navigator';
 import { SocialNavigator } from './social.navigator';
-import { ArticlesNavigator } from './articles.navigator';
+import { ArticlesNavigator} from './articles.navigator';
 import { MessagingNavigator } from './messaging.navigator';
 import { DashboardsNavigator } from './dashboards.navigator';
 import { EcommerceNavigator } from './ecommerce.navigator';
