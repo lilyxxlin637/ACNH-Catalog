@@ -7,6 +7,7 @@ import { MessagingNavigator } from './messaging.navigator';
 import { DashboardsNavigator } from './dashboards.navigator';
 import { EcommerceNavigator } from './ecommerce.navigator';
 import { LayoutsScreen } from '../scenes/layouts/layouts.component';
+import {CamNavigator} from '../camera/cam.navigator'
 
 const Stack = createStackNavigator();
 
@@ -14,6 +15,7 @@ export const LayoutsNavigator = (): React.ReactElement => (
   <Stack.Navigator headerMode='none'>
     <Stack.Screen name='Layouts' component={LayoutsScreen}/>
     <Stack.Screen name='Auth' component={AuthNavigator}/>
+    <Stack.Screen name='Camera' component={CamNavigator}/>
     <Stack.Screen name='Social' component={SocialNavigator}/>
     <Stack.Screen name='Fish' component={ArticlesNavigator}/>
     <Stack.Screen name='Insects' component={ArticlesNavigator}/>

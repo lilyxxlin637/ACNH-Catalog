@@ -91,6 +91,16 @@ export const data: LayoutData[] = [
     },
   },
   {
+    title: '相机',
+    route: 'Camera',
+    icon: (style: ImageStyle) => {
+      return React.createElement(
+        ThemedIcon,
+        { ...style, light: CameraIcon, dark: AssetDashboardsDarkIcon },
+      );
+    },
+  },
+  {
     title: 'Dashboards',
     route: 'Dashboards',
     icon: (style: ImageStyle) => {

@@ -20,7 +20,7 @@ export const ArticlesScreen = ({ navigation, state }): React.ReactElement => {
   const renderCameraAction = (): React.ReactElement => (
     <TopNavigationAction
       icon={CameraIcon}
-      onPress={navigation && navigation.navigate("Camera")}
+      onPress={navigation.goBack}
     />
   );
 

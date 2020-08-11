@@ -1,6 +1,5 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
-import { NavigationContainer } from '@react-navigation/native';
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
 import { ArticlesGridScreen } from '../scenes/articles/articles-grid.component';
 import { ArticlesListScreen } from '../scenes/articles/articles-list.component';
@@ -12,15 +11,13 @@ import { ArticleList1Screen } from '../scenes/articles/article-list-1.component'
 import { ArticleList2Screen } from '../scenes/articles/article-list-2.component';
 import { ArticleList3Screen } from '../scenes/articles/article-list-3.component';
 import { ArticleList4Screen } from '../scenes/articles/article-list-4.component';
-import {CamNavigator} from '../camera/cam.navigator'
 const Stack = createStackNavigator();
 
 export const ArticlesNavigator = (): React.ReactElement => (
   <Stack.Navigator>
-    <Stack.Screen name='Articles' component={ArticlesScreen}/>
+    <Stack.Screen name='Articles' component={ArticlesScreen}/> 
     <Stack.Screen name='Article1' component={Article1Screen}/>
     <Stack.Screen name='Article3' component={Article3Screen}/>
-    <Stack.Screen name='Camera' component={CamNavigator}/>
     <Stack.Screen name='ArticleList1' component={ArticleList1Screen}/>
     <Stack.Screen name='ArticleList2' component={ArticleList2Screen}/>
     <Stack.Screen name='ArticleList3' component={ArticleList3Screen}/>
