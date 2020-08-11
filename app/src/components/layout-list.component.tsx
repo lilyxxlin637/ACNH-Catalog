@@ -13,9 +13,13 @@ export type LayoutListElement = React.ReactElement<LayoutListProps>;
 
 
 export const LayoutList = (props: LayoutListProps): ListElement => {
+  const [textValue, setTextValue] = React.useState('拥有');
+  const [, forceRender] = React.useReducer((s) => s + 1, 0);
 
-  const onPress = (id: number): void => {
-    //
+  const onPress = (item: LayoutItem): void => {
+    item.isOwned = true;
+    setTextValue('已有');
+    forceRender();
   };
 
   const { contentContainerStyle, onItemPress, ...listProps } = props;
@@ -41,12 +45,19 @@ export const LayoutList = (props: LayoutListProps): ListElement => {
             style={styles.itemSell}>
             {info.item.Sell.toString()}
           </Text>
-          <TouchableOpacity onPress={() => onPress(info.item.InternalID)} style={styles.itemButton}>
-            <Text style={styles.itemButtonText}>拥有</Text>
+          <TouchableOpacity onPress={() => onPress(info.item)} style={styles.itemButton}>
+            <Text style={styles.itemButtonText}>{info.item.isOwned ? '已有' : '拥有'}</Text>
           </TouchableOpacity>
         </View>
       </View>
     </ListItem>
+  );
+
+  React.useEffect(
+    () => {
+      // your refresh code
+    },
+    [textValue],
   );
 
   return (

@@ -13,6 +13,8 @@ export interface LayoutItem {
 
   InternalID: number;
 
+  isOwned: boolean;
+
   CritterpediaFilename: string;
   FurnitureFilename: string;
 }
