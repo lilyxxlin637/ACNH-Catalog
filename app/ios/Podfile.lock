@@ -243,6 +243,10 @@ PODS:
     - React
   - RNSVG (9.13.3):
     - React
+  - RNTextDetector (0.0.6):
+    - React
+    - TesseractOCRiOS (~> 4.0.0)
+  - TesseractOCRiOS (4.0.0)
   - Yoga (1.14.0)
 
 DEPENDENCIES:
@@ -283,11 +287,13 @@ DEPENDENCIES:
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
   - RNSVG (from `../node_modules/react-native-svg`)
+  - RNTextDetector (from `../node_modules/react-native-text-detector/ios`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
   trunk:
     - boost-for-react-native
+    - TesseractOCRiOS
 
 EXTERNAL SOURCES:
   DoubleConversion:
@@ -358,6 +364,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-screens"
   RNSVG:
     :path: "../node_modules/react-native-svg"
+  RNTextDetector:
+    :path: "../node_modules/react-native-text-detector/ios"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
@@ -397,8 +405,10 @@ SPEC CHECKSUMS:
   RNReanimated: b2ab0b693dddd2339bd2f300e770f6302d2e960c
   RNScreens: 254da4b84f25971cbb30ed3ddc84131f23cac812
   RNSVG: f6177f8d7c095fada7cfee2e4bb7388ba426064c
+  RNTextDetector: bcbfed60c7d2a8f455314955a519fae6d5ab921a
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
-PODFILE CHECKSUM: 283d79fe9f997cb2e4e5c3b30b4cfe5de474678b
+PODFILE CHECKSUM: 4164edeb5b4e5bcf6d3a8d98550940351a4c8c15
 
 COCOAPODS: 1.9.1
