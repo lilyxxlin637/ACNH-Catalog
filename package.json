@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-text-detector": "^0.0.6"
+  }
+}
