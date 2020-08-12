@@ -1,9 +1,8 @@
 'use strict';
-import React from 'react';
-import { Dimensions, StyleSheet, Text, TouchableOpacity, View, ImageBackground} from 'react-native';
+import React, { PureComponent } from 'react';
+import { Dimensions, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { RNCamera } from 'react-native-camera';
 import RNTextDetector from "react-native-text-detector";
-
 
 //Still need to set up android section according to the following github
 //https://github.com/zsajjad/react-native-text-detector/tree/tesseract#also-add--lstdc-if-not-already-present
@@ -12,19 +11,12 @@ import RNTextDetector from "react-native-text-detector";
 export const CameraScreen = ({ navigation}): React.ReactElement => {
 
   var camera;
-  var imguri = ""
+  var imguri;
 
-  var state = {
-    language: "eng", //can change based on input
-    loading: false,
-    image: null,
-    error: null,
-    visionResp: []
-  };
 
-  const mapVisionRespToScreen = (visionResp, imageProperties) => {
-    const IMAGE_TO_SCREEN_Y =  Dimensions.get('window').height / imageProperties.height;
-    const IMAGE_TO_SCREEN_X = Dimensions.get('window').width  / imageProperties.width;
+  const mapVisionRespToScreen = (visionResp) => {
+    const IMAGE_TO_SCREEN_Y = 1;//screenHeight / imageProperties.height;
+    const IMAGE_TO_SCREEN_X = 1;//screenWidth / imageProperties.width;
 
     return visionResp.map(item => {
       //TODO: return if within the lib
@@ -41,9 +33,6 @@ export const CameraScreen = ({ navigation}): React.ReactElement => {
   };
 
   const takePicture = async () => {
-    this.setState({
-      loading: true
-    });
     if (camera) {
       try {
         const options = {
@@ -51,21 +40,18 @@ export const CameraScreen = ({ navigation}): React.ReactElement => {
           base64: true,
           skipProcessing: true,
         };
-        const data = await camera.takePictureAsync(options);
-        const visionResp = await RNTextDetector.detect({
-           imagePath: data.uri,
-           language: state.language,
-           pageIteratorLevel: "textLine",
-      });
-      
+        const { uri } = await camera.takePictureAsync(options);
+        this.setState({ path: uri });
+        const visionResp = await RNTextDetector.detectFromUri(uri);
+      //   detect({
+      //     imagePath: uri, // this can be remote url as well, package will handle such url internally
+      //     language: "eng", //Need to set accordingly
+      //     pageIteratorLevel: "textLine",
+      // });
         if (!(visionResp && visionResp.length > 0)) {
           console.warn("OCR:Did not find any text");
         }else{
-          state.visionResp = mapVisionRespToScreen(visionResp, {height: data.height, width: data.width});
-          imguri = data.uri;
-          this.setState({
-            image: data.uri
-          })
+          mapVisionRespToScreen(visionResp);
         }
         // console.log('visionResp', visionResp);
       } catch (e) {
@@ -76,72 +62,66 @@ export const CameraScreen = ({ navigation}): React.ReactElement => {
     }
   };
   const renderCamera = () => {
-    // const imguri = JSON.stringify(state.image)
-      if(true){
-        return (
-          <View style={styles.container}>
-            <RNCamera>
-              ref={ref => {
-                camera= ref;
-              }}
-              style={styles.preview}
-              type={RNCamera.Constants.Type.back}
-              flashMode={RNCamera.Constants.FlashMode.off}
-              androidCameraPermissionOptions={{
-                title: 'Permission to use camera',
-                message: 'We need your permission to use your camera',
-                buttonPositive: 'Ok',
-                buttonNegative: 'Cancel',
-              }}
-              androidRecordAudioPermissionOptions={{
-                title: 'Permission to use audio recording',
-                message: 'We need your permission to use your audio',
-                buttonPositive: 'Ok',
-                buttonNegative: 'Cancel',
-              }}
-              <View style={{ flex: 0, flexDirection: 'row', justifyContent: 'center' }}>
-                  <TouchableOpacity onPress={takePicture.bind(this)} style={styles.capture}>
-                    <Text style={{ fontSize: 14 }}> Scan</Text>
-                  </TouchableOpacity>
-              </View>
-            </RNCamera>
-            </View>
-        );
-      }else{
-        return (
-          <View style={styles.container}>
-            <ImageBackground
-            source={{ uri: state.image }}
-            style={styles.imageBackground}
-            key="image"
-            resizeMode="cover"
-          >
-            {state.visionResp.map(item => {
-              return (
-                <TouchableOpacity
-                  style={[styles.boundingRect, item.position]}
-                  key={item.text}
-                />
-              );
-            })}
-          </ImageBackground>
+    return (
+        <View style={styles.container}>
+          <RNCamera
+            ref={ref => {
+              camera= ref;
+            }}
+            style={styles.preview}
+            type={RNCamera.Constants.Type.back}
+            flashMode={RNCamera.Constants.FlashMode.off}
+            androidCameraPermissionOptions={{
+              title: 'Permission to use camera',
+              message: 'We need your permission to use your camera',
+              buttonPositive: 'Ok',
+              buttonNegative: 'Cancel',
+            }}
+            androidRecordAudioPermissionOptions={{
+              title: 'Permission to use audio recording',
+              message: 'We need your permission to use your audio',
+              buttonPositive: 'Ok',
+              buttonNegative: 'Cancel',
+            }}
+            onGoogleVisionBarcodesDetected={({ barcodes }) => {
+              console.log(barcodes);
+            }} 
+          />
+          <View style={{ flex: 0, flexDirection: 'row', justifyContent: 'center' }}>
+            <TouchableOpacity onPress={takePicture.bind(this)} style={styles.capture}>
+              <Text style={{ fontSize: 14 }}> Scan</Text>
+            </TouchableOpacity>
           </View>
-        );
-      }
+        </View>
+      );
     }
 
+    const renderImage = () => {
+      return (
+        <View>
+          <img src={require(imguri)}/>
+          <Text
+            style={styles.cancel}
+            onPress={() => this.setState({ path: null })}
+          >Cancel
+          </Text>
+        </View>
+      );
+    }
+
+
+
     return (
-      renderCamera()
+      <View style={styles.container}>
+        {renderCamera()
+        /* {this.state.path ? renderImage() : renderCamera()} */}
+      </View>
     );
 
   }
 
 
 const styles = StyleSheet.create({
-  screen: {
-    backgroundColor: '#fff',
-    flex: 1
-  },
   container: {
     flex: 1,
     flexDirection: 'column',
@@ -149,15 +129,13 @@ const styles = StyleSheet.create({
   },
   preview: {
     flex: 1,
-    flexDirection: 'column',
     justifyContent: 'flex-end',
+    alignItems: 'center',
   },
   preview_img: {
-    position: "absolute",
-    alignItems: "flex-start",
-    justifyContent: "flex-start",
-    top: 0,
-    left: 0,
+    flex: 1,
+    justifyContent: 'flex-end',
+    alignItems: 'center',
     height: Dimensions.get('window').height,
     width: Dimensions.get('window').width
   },
@@ -179,22 +157,4 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     fontSize: 17,
   },
-  boundingRect: {
-    position: "absolute",
-    alignItems: "center",
-    justifyContent: "center",
-    borderWidth: 2,
-    borderColor: "#FF6600"
-  },  
-  imageBackground: {
-    position: "absolute",
-    width: Dimensions.get('window').width ,
-    height: Dimensions.get('window').height ,
-    alignItems: "flex-start",
-    justifyContent: "flex-start",
-    top: 0,
-    left: 0
-  },
 });
-
-// AppRegistry.registerComponent('App', () => ExampleApp);
